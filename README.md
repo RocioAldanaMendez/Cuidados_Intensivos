@@ -53,9 +53,6 @@ La propuesta de trabajo se llevará a cabo en las siguientes etapas:
 ## 
 ## MINI-DEMO
 ![imagen1](https://github.com/RocioAldanaMendez/Medinova/blob/main/img/imagen1.jpg)
-![imagen2](https://github.com/RocioAldanaMendez/Medinova/blob/main/img/imagen2.jpg)
-![imagen3](https://github.com/RocioAldanaMendez/Medinova/blob/main/img/imagen3.jpg)
-![imagen4](https://github.com/RocioAldanaMendez/Medinova/blob/main/img/imagen4.jpg)
 
 ## ACCESO-AL-PROYECTO
 
@@ -63,17 +60,11 @@ La propuesta de trabajo se llevará a cabo en las siguientes etapas:
  
 ## DESARROLLADORES
 
- [<img src="https://avatars.githubusercontent.com/u/39572689?v=4" width=115><br><sub>Fernando Falloatti</sub>](https://github.com/Falloatti) | 
- [<img src="https://avatars.githubusercontent.com/u/114674598?v=4" width=115><br><sub>Emiliano Daniele</sub>](https://github.com/emiliano98) | 
- [<img src="https://avatars.githubusercontent.com/u/109556951?v=4" width=115><br><sub>Carla Carrasco</sub>](https://github.com/CarCarrasco1) | 
- [<img src="https://avatars.githubusercontent.com/u/106095273?v=4" width=115><br><sub>Osvaldo Spolzino</sub>](https://github.com/Rolajim) |   
- [<img src="https://avatars.githubusercontent.com/u/112353681?v=4" width=115><br><sub>Jonathan Moreno</sub>](https://github.com/Jonathan5785) |
- [<img src="https://avatars.githubusercontent.com/u/111364771?v=4" width=115><br><sub>Valentin Ronchetti</sub>](https://github.com/ValentinS2) |
- [<img src="https://avatars.githubusercontent.com/u/114762635?v=4" width=115><br><sub>Ada Parhuana</sub>](https://github.com/Adapa22) | 
- [<img src="https://avatars.githubusercontent.com/u/11812955?v=4" width=115><br><sub>Isaac Avelino</sub>](https://github.com/mrcruzer) |  
- [<img src="https://avatars.githubusercontent.com/u/22361665?v=4" width=115><br><sub>Angelica Garcia</sub>](https://github.com/hikikae) |
- 
-## SUPERVICIÓN
+| [<img src="https://avatars.githubusercontent.com/u/83037176?v=4" width=115><br><sub>Rocío Méndez</sub>](https://github.com/RocioAldanaMendez)  | [<img src="https://avatars.githubusercontent.com/u/109556951?v=4" width=115><br><sub>Carla Carrasco</sub>](https://github.com/CarCarrasco1) | [<img src="https://avatars.githubusercontent.com/u/106095273?v=4" width=115><br><sub>Osvaldo Spolzino</sub>](https://github.com/Rolajim) | [<img src="https://avatars.githubusercontent.com/u/114433631?v=4" width=115><br><sub>Mauren Hermosillo</sub>](https://github.com/Maurengit) |[<img src="https://avatars.githubusercontent.com/u/111803864?v=4" width=115><br><sub>Rodrigo Pérez</sub>](https://github.com/roprz) |
+| :---: | :---: | :---: | :---: | :---: | 
+
+
+ ## SUPERVICIÓN
 
 Muchisimas gracias por ver este desarrollo, podes seguir los futuros cambios dandole una estrellita en la parte superior derecha del repositorio. Podes Clonarlo, y/o podes hacer un PullRequest ya que todo aporte es bienvenido. :smiley: :wave:
 
