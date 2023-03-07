@@ -1,6 +1,3 @@
-![header](https://capsule-render.vercel.app/api?type=waving&height=300&section=header&text=%20MEDINOVA&fontSize=30&&color=15:92a8d1,100:f7cac9&desc=%20%20&fontColor=ff6347&fontAlignY=35)
-
-
 ## INDICE:
 <!-- TABLE OF CONTENTS -->
 <details>
@@ -66,9 +63,16 @@ La propuesta de trabajo se llevará a cabo en las siguientes etapas:
  
 ## DESARROLLADORES
 
-| [<img src="https://avatars.githubusercontent.com/u/83037176?v=4" width=115><br><sub>Rocío Méndez</sub>](https://github.com/RocioAldanaMendez) |
-| :---: | 
-
+ [<img src="https://avatars.githubusercontent.com/u/39572689?v=4" width=115><br><sub>Fernando Falloatti</sub>](https://github.com/Falloatti) | 
+ [<img src="https://avatars.githubusercontent.com/u/114674598?v=4" width=115><br><sub>Emiliano Daniele</sub>](https://github.com/emiliano98) | 
+ [<img src="https://avatars.githubusercontent.com/u/109556951?v=4" width=115><br><sub>Carla Carrasco</sub>](https://github.com/CarCarrasco1) | 
+ [<img src="https://avatars.githubusercontent.com/u/106095273?v=4" width=115><br><sub>Osvaldo Spolzino</sub>](https://github.com/Rolajim) |   
+ [<img src="https://avatars.githubusercontent.com/u/112353681?v=4" width=115><br><sub>Jonathan Moreno</sub>](https://github.com/Jonathan5785) |
+ [<img src="https://avatars.githubusercontent.com/u/111364771?v=4" width=115><br><sub>Valentin Ronchetti</sub>](https://github.com/ValentinS2) |
+ [<img src="https://avatars.githubusercontent.com/u/114762635?v=4" width=115><br><sub>Ada Parhuana</sub>](https://github.com/Adapa22) | 
+ [<img src="https://avatars.githubusercontent.com/u/11812955?v=4" width=115><br><sub>Isaac Avelino</sub>](https://github.com/mrcruzer) |  
+ [<img src="https://avatars.githubusercontent.com/u/22361665?v=4" width=115><br><sub>Angelica Garcia</sub>](https://github.com/hikikae) |
+ 
 ## SUPERVICIÓN
 
 Muchisimas gracias por ver este desarrollo, podes seguir los futuros cambios dandole una estrellita en la parte superior derecha del repositorio. Podes Clonarlo, y/o podes hacer un PullRequest ya que todo aporte es bienvenido. :smiley: :wave:
