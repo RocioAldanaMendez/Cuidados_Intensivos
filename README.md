@@ -44,7 +44,7 @@ Los principales puntos que abordaremos son los siguientes:
 
 - **Gestión de datos del paciente**, convoca lo relacionado a optimizar flujos y almacenamiento de datos, como tambien la  correcta asignación de pacientes a las  unidades médicas.
 
-#SCOPE OF WORK
+# SCOPE OF WORK
 
 Scope of work, hace referencia a las herramientas tecnológicas que se implementaran, tales como:
 - **Idioma** Español.
@@ -70,7 +70,7 @@ Scope of work, hace referencia a las herramientas tecnológicas que se implement
 - **Discord y Slack** reuniones diarias y semanales.
 
 
-## ESTADO:
+# ESTADO:
 <h4 align="center"> :beginner: Proyecto en proceso :beginner: </h4>
 
 ## MINI-DEMO
