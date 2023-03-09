@@ -1,9 +1,9 @@
  
- <h1 align=center>![](https://github.com/CarCarrasco1/Cuidados_Intensivos/blob/main/assets/logo.svg)
+ <h1 align=center> ![](https://github.com/CarCarrasco1/Cuidados_Intensivos/blob/main/assets/logo.svg)
 
- <h1 align=center> ## MEDINOVA
+ <h1 align=center> ## MEDINOVA## 
 
- <h1 align=center>![](https://github.com/CarCarrasco1/Cuidados_Intensivos/blob/main/assets/medinovaneg.png)
+ <h1 align=center> ![](https://github.com/CarCarrasco1/Cuidados_Intensivos/blob/main/assets/medinovaneg.png)
 
 
 ## INDICE
