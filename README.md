@@ -83,10 +83,14 @@ Scope of work, hace referencia a las herramientas tecnológicas que se implement
 ## MINI-DEMO
 ![imagen1](https://github.com/CarCarrasco1/Cuidados_Intensivos/blob/main/assets/dash1.png)
 ![imagen1](https://github.com/CarCarrasco1/Cuidados_Intensivos/blob/main/assets/dash2.png)
-## ACCESO-AL-PROYECTO
 
 ## TECNOLOGÍAS
- 
+- ORGANIZACIÓN : Trello, Discord, Slack, Git y GitHub
+- SERVICIO DE ANÁLISIS DE DATOS: PowerBI
+- RECURSOS DE PROGRAMACIÓN : VSC, Python y SQL
+- SISTEMA OPERATIVO: Windows versio mayor a 10
+- RECURSOS ADICIONALES : Excel, Word y DRAW.IO
+
 ## DESARROLLADORES
 
 | [<img src="https://avatars.githubusercontent.com/u/83037176?v=4" width=115><br><sub>Rocío Méndez</sub>](https://github.com/RocioAldanaMendez)  | [<img src="https://avatars.githubusercontent.com/u/109556951?v=4" width=115><br><sub>Carla Carrasco</sub>](https://github.com/CarCarrasco1) | [<img src="https://avatars.githubusercontent.com/u/106095273?v=4" width=115><br><sub>Osvaldo Spolzino</sub>](https://github.com/Rolajim) | [<img src="https://avatars.githubusercontent.com/u/114433631?v=4" width=115><br><sub>Mauren Hermosillo</sub>](https://github.com/Maurengit) |[<img src="https://avatars.githubusercontent.com/u/111803864?v=4" width=115><br><sub>Rodrigo Pérez</sub>](https://github.com/roprz) |
