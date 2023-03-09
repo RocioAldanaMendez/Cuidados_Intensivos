@@ -74,8 +74,8 @@ Scope of work, hace referencia a las herramientas tecnológicas que se implement
 <h4 align="center"> :beginner: Proyecto en proceso :beginner: </h4>
 
 ## MINI-DEMO
-![imagen1](https://github.com/RocioAldanaMendez/Medinova/blob/main/img/imagen1.jpg)
-
+![imagen1](https://github.com/CarCarrasco1/Cuidados_Intensivos/blob/main/assets/dash1.png)
+![imagen1](https://github.com/CarCarrasco1/Cuidados_Intensivos/blob/main/assets/dash1.png)
 ## ACCESO-AL-PROYECTO
 
 ## TECNOLOGÍAS
