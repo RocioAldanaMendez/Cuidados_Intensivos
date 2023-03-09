@@ -84,12 +84,6 @@ Scope of work, hace referencia a las herramientas tecnológicas que se implement
 ![imagen1](https://github.com/CarCarrasco1/Cuidados_Intensivos/blob/main/assets/dash1.png)
 ![imagen1](https://github.com/CarCarrasco1/Cuidados_Intensivos/blob/main/assets/dash2.png)
 
-## TECNOLOGÍAS
-- ORGANIZACIÓN : Trello, Discord, Slack, Git y GitHub
-- SERVICIO DE ANÁLISIS DE DATOS: PowerBI
-- RECURSOS DE PROGRAMACIÓN : VSC, Python y SQL
-- SISTEMA OPERATIVO: Windows versio mayor a 10
-- RECURSOS ADICIONALES : Excel, Word y DRAW.IO
 
 ## DESARROLLADORES
 
