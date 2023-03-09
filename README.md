@@ -1,8 +1,9 @@
 
-
+ <h1 align=center>
+ 
  ![](https://github.com/CarCarrasco1/Cuidados_Intensivos/blob/main/assets/blancogrande.png)
 
- <h1 align=center> ### MEDINOVA
+ ##<h1 align=center> MEDINOVA
 
 ![](https://github.com/CarCarrasco1/Cuidados_Intensivos/blob/main/assets/medinovaneg.png)
 
