@@ -1,5 +1,10 @@
-## NOMBRE DEL PROYECTO 
-![](https://www.elsevier.com/__data/assets/image/0010/862876/Blog_960x436_Big-Data-sanitario_1.png)
+ 
+![](https://github.com/CarCarrasco1/Cuidados_Intensivos/blob/main/assets/logo.svg)
+
+## MEDINOVA
+
+![](https://github.com/CarCarrasco1/Cuidados_Intensivos/blob/main/assets/medinovaneg.png)
+
 
 ## INDICE
 <!-- TABLE OF CONTENTS -->
@@ -75,7 +80,7 @@ Scope of work, hace referencia a las herramientas tecnológicas que se implement
 
 ## MINI-DEMO
 ![imagen1](https://github.com/CarCarrasco1/Cuidados_Intensivos/blob/main/assets/dash1.png)
-![imagen1](https://github.com/CarCarrasco1/Cuidados_Intensivos/blob/main/assets/dash1.png)
+![imagen1](https://github.com/CarCarrasco1/Cuidados_Intensivos/blob/main/assets/dash2.png)
 ## ACCESO-AL-PROYECTO
 
 ## TECNOLOGÍAS
