@@ -1,10 +1,13 @@
-## INDICE:
+## NOMBRE DEL PROYECTO 
+![](https://www.elsevier.com/__data/assets/image/0010/862876/Blog_960x436_Big-Data-sanitario_1.png)
+
+## INDICE
 <!-- TABLE OF CONTENTS -->
 <details>
   <summary>Tabla de contenido</summary>
   <ol>
     <li><a href="#header">TÍTULO E IMAGEN DE PORTADA</a></li>
-    <li><a href="#INDICE">ÍNDICE</a></li>
+    <li><a href="#INDICE">INDICE</a></li>
     <li><a href="#INTRODUCCIÓN">INTRODUCCIÓN</a></li>
     <li><a href="#OBJETIVO">OBJETIVO</a></li>
     <li><a href="#SCOPE-OF-WORK">SCOPE OF WORK</a></li>
@@ -20,37 +23,56 @@
   </ol>
 </details>
 
+# INTRODUCCIÓN
 
-## INTRODUCCIÓN
+¡Bienvenidos a nuestro proyecto!
+Somos xxxx una empresa especializada en Data, en el siguiente repositorio encontrarán el proceso de desarrollo y la solución implementada para las Unidades de Cuidados Intesivos (UCI).
 
-Se proyecta implementar un sistema de información independiente que sirva como sistema para cualquier entidad de salud, el cual no tendrá relación con otros sistemas. Dentro de sus módulos, éste debe permitir controlar el ingreso de pacientes para cualquier área y especialidad. Éste módulo dependerá del módulo de infraestructura para realizar tareas de administración de camas, asignación de éstas, comunicación de camas ocupadas, otro módulo necesario será el de personal, puesto que es obligatorio asignación de médicos para pacientes.
+Para darles un poco más de contexto la situación evaluada fue enfocada a un centro de salud requiere de una solución completa de arquitectura de datos para poder gestionar todos estos datos y simplificar las gestiones de recursos del personal hospitalario, como también obtener toda la información analítica que puedan para optimizar los recursos disponibles.
 
-## OBJETIVO
-• El sistema web debe permitir iniciar sesión a diferentes tipos de usuarios (Administrador, Operador, Profesional Medico).
+Desde el momento uno de este trabajo, se consideraron los temas relacionados con los gastos y recuros, pero sin dejar de lado la importancia ética y moral que se requiere en este ambiente profesional en especifico.
 
-• El sistema debe permitir registro, modificación, listado y baja de usuarios.
+# OBJETIVOS
 
-• El sistema web debe permitir registro, consulta, modificación, listado y baja de pacientes.
+Para lograr recorrer un camino más claro, lo primero que se hizo fue plantear las metas a las cuales apuntamos a llegar para dar una solución concreta, efectiva y escalable en el tiempo.
 
-• El sistema web debe permitir el registro, consulta, modificación, listado y baja 0de historias clínicas de los pacientes.
+Los principales puntos que abordaremos son los siguientes:
 
-• El sistema web debe permitir registro, consulta, modificación, listado y baja de turnos.
+- **Administración de recursos hospitalarios** mínimos para asegurar la calidad de atención y el servicio brindado.
 
-• El sistema web debe permitir el registro, consulta, modificación, listado y baja de internación de pacientes.
+- Implementacion de** historales clínicos digitales**, de fácil lectura y carga.
 
-• El sistema web debe llevar un registro de la disponibilidad de camas disponibles para internación.
+- **Gestión de datos del paciente**, convoca lo relacionado a optimizar flujos y almacenamiento de datos, como tambien la  correcta asignación de pacientes a las  unidades médicas.
+
+# SCOPE OF WORK
+
+Scope of work, hace referencia a las herramientas tecnológicas que se implementaran, tales como:
+- **Idioma** Español.
+
+- **Sistema operativo** Windows > versión 10.
+
+- **Visual Studio Code**, como el editor de codigo predilecto por su eficacia y potencia.
+
+- **Lenguajes de programación**, Python, por excelencia, y SQL.
+
+- **PowerBI/StreamLit**, herramientas de visualización.
+
+- **TRELLO**, para planificación de tareas diarias, por semanas.
+
+- **GITHUB** (Local, Nube y Desktop), para desarrollar las actividades democratizandolas y pudiendo todos los integrantes acceder a su contido, formando sinergia.
+
+- **DRAW.IO**, herramienta para dibujar cualquier tipo de mapas mentales, mapas conceptuales, esquemas o diferentes representaciones gráficas.
+
+- **Excel** , como guia para lista de requerimientos y asignación de roles.
+
+- **Word**, programa de procesamiento de textos, diseñado para ayudarle a crear documentos de calidad profesional, utilizado con la finalidad de documentar todo el trabajo.
+
+- **Discord y Slack** reuniones diarias y semanales.
 
 
-## SCOPE-OF-WORK
-La propuesta de trabajo se llevará a cabo en las siguientes etapas:
-1. Documentar basándose en las directrices dadas por el estándar IEEE Práctica Recomendada para Especificaciones de Requisitos Software ANSI/IEEE 830, 1998.
-
-## ESTADO:
+# ESTADO:
 <h4 align="center"> :beginner: Proyecto en proceso :beginner: </h4>
 
-## 
-## 
-## 
 ## MINI-DEMO
 ![imagen1](https://github.com/RocioAldanaMendez/Medinova/blob/main/img/imagen1.jpg)
 
@@ -65,6 +87,9 @@ La propuesta de trabajo se llevará a cabo en las siguientes etapas:
 
 
  ## SUPERVICIÓN
+
++ Maico Bernal
+
 
 Muchisimas gracias por ver este desarrollo, podes seguir los futuros cambios dandole una estrellita en la parte superior derecha del repositorio. Podes Clonarlo, y/o podes hacer un PullRequest ya que todo aporte es bienvenido. :smiley: :wave:
 
