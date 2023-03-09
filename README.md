@@ -1,7 +1,8 @@
- 
- ![](https://github.com/CarCarrasco1/Cuidados_Intensivos/tree/main/assets)
 
- <h1 align=center> ##MEDINOVA
+
+ ![] (https://github.com/CarCarrasco1/Cuidados_Intensivos/tree/main/assets)
+
+ <h1 align=center> ## MEDINOVA
 
 ![](https://github.com/CarCarrasco1/Cuidados_Intensivos/blob/main/assets/medinovaneg.png)
 
