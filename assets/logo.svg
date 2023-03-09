@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="75mm"
+   height="50mm"
+   viewBox="0 0 75 50"
+   version="1.1"
+   id="svg2571"
+   inkscape:version="1.2 (dc2aedaf03, 2022-05-15)"
+   sodipodi:docname="logo.svg"
+   inkscape:export-filename="logo.jpg"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview2573"
+     pagecolor="#ffffff"
+     bordercolor="#cccccc"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="1"
+     inkscape:pagecheckerboard="false"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.72515432"
+     inkscape:cx="126.86955"
+     inkscape:cy="389.57225"
+     inkscape:window-width="1902"
+     inkscape:window-height="983"
+     inkscape:window-x="2130"
+     inkscape:window-y="231"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1"
+     showborder="true" />
+  <defs
+     id="defs2568" />
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g2766"
+       transform="translate(-49.621622,-99.972971)">
+      <g
+         id="g2442"
+         transform="matrix(0.74436988,0,0,0.7462856,28.293152,71.280795)">
+        <rect
+           style="fill:#80e5ff;stroke-width:0.267311"
+           id="rect2424"
+           width="10.583333"
+           height="10.583333"
+           x="85.545761"
+           y="51.252274" />
+        <rect
+           style="fill:#00aad4;stroke-width:0.267311"
+           id="rect2426"
+           width="10.583333"
+           height="10.583333"
+           x="96.138794"
+           y="51.252274" />
+        <rect
+           style="fill:#0088aa;stroke-width:0.267311"
+           id="rect2428"
+           width="10.583333"
+           height="10.583333"
+           x="106.73183"
+           y="51.252274" />
+        <rect
+           style="fill:#80e5ff;stroke-width:0.267311"
+           id="rect2430"
+           width="10.583333"
+           height="10.583333"
+           x="96.31131"
+           y="61.832203" />
+        <rect
+           style="fill:#80e5ff;stroke-width:0.267311"
+           id="rect2432"
+           width="10.583333"
+           height="10.583333"
+           x="106.73183"
+           y="72.356789" />
+        <rect
+           style="fill:#00aad4;stroke-width:0.267311"
+           id="rect2434"
+           width="10.583333"
+           height="10.583333"
+           x="85.744476"
+           y="61.832203" />
+        <rect
+           style="fill:#0088aa;stroke-width:0.267311"
+           id="rect2436"
+           width="10.583333"
+           height="10.583333"
+           x="85.757584"
+           y="72.356789" />
+        <rect
+           style="fill:#006680;stroke-width:0.267311"
+           id="rect2438"
+           width="10.583333"
+           height="10.583333"
+           x="106.73183"
+           y="61.832203" />
+        <rect
+           style="fill:#006680;stroke-width:0.267311"
+           id="rect2440"
+           width="10.583333"
+           height="10.583333"
+           x="96.125717"
+           y="72.356789" />
+      </g>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.7776px;font-family:'Microsoft PhagsPa';-inkscape-font-specification:'Microsoft PhagsPa, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#2b0000;stroke-width:0.543219"
+         x="55.455692"
+         y="143.54453"
+         id="text2448"><tspan
+           sodipodi:role="line"
+           id="tspan2446"
+           x="55.455692"
+           y="143.54453"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.7776px;font-family:'Microsoft PhagsPa';-inkscape-font-specification:'Microsoft PhagsPa, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#2b0000;stroke-width:0.543219">smart<tspan
+   style="fill:#2c89a0;stroke-width:0.543219"
+   id="tspan2444">data</tspan></tspan></text>
+    </g>
+  </g>
+</svg>
