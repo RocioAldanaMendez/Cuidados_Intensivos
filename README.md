@@ -76,7 +76,7 @@ Scope of work, hace referencia a las herramientas tecnológicas que se implement
 
 - **Discord y Slack** reuniones diarias y semanales.
 
- # CONCLUSIONES
+ # CONCLUSIONES  PRELIMINARES
 
 El análisis de Big Data parece tener un impacto positivo en la atención de enfermedades crónicas. A pesar de las preocupaciones de los costos de implementación y la eficacia del análisis de datos, los hospitales y otros entornos de atención crónica han visto resultados iniciales prometedores en términos de mejora en los resultados clínicos, así como en la financiación.
 
