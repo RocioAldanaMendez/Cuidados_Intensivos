@@ -1,5 +1,11 @@
-## NOMBRE DEL PROYECTO 
-![](https://www.elsevier.com/__data/assets/image/0010/862876/Blog_960x436_Big-Data-sanitario_1.png)
+<h1 align=center>
+ 
+ ![](https://github.com/CarCarrasco1/Cuidados_Intensivos/blob/main/assets/blancogrande.png)
+
+<h1 align=center> 
+ 
+![](https://github.com/CarCarrasco1/Cuidados_Intensivos/blob/main/assets/medinovaneg.png)
+
 
 ## INDICE
 <!-- TABLE OF CONTENTS -->
@@ -26,7 +32,7 @@
 # INTRODUCCIÓN
 
 ¡Bienvenidos a nuestro proyecto!
-Somos xxxx una empresa especializada en Data, en el siguiente repositorio encontrarán el proceso de desarrollo y la solución implementada para las Unidades de Cuidados Intesivos (UCI).
+Somos **SMARTDATA** una empresa especializada en Data, en el siguiente repositorio encontrarán el proceso de desarrollo y la solución implementada para las Unidades de Cuidados Intesivos (UCI).
 
 Para darles un poco más de contexto la situación evaluada fue enfocada a un centro de salud requiere de una solución completa de arquitectura de datos para poder gestionar todos estos datos y simplificar las gestiones de recursos del personal hospitalario, como también obtener toda la información analítica que puedan para optimizar los recursos disponibles.
 
@@ -40,7 +46,7 @@ Los principales puntos que abordaremos son los siguientes:
 
 - **Administración de recursos hospitalarios** mínimos para asegurar la calidad de atención y el servicio brindado.
 
-- Implementacion de** historales clínicos digitales**, de fácil lectura y carga.
+- Implementacion de **historales clínicos digitales**, de fácil lectura y carga.
 
 - **Gestión de datos del paciente**, convoca lo relacionado a optimizar flujos y almacenamiento de datos, como tambien la  correcta asignación de pacientes a las  unidades médicas.
 
@@ -69,17 +75,23 @@ Scope of work, hace referencia a las herramientas tecnológicas que se implement
 
 - **Discord y Slack** reuniones diarias y semanales.
 
+ # CONCLUSIONES  PRELIMINARES
 
+El análisis de Big Data parece tener un impacto positivo en la atención de enfermedades crónicas. A pesar de las preocupaciones de los costos de implementación y la eficacia del análisis de datos, los hospitales y otros entornos de atención crónica han visto resultados iniciales prometedores en términos de mejora en los resultados clínicos, así como en la financiación.
+
+ Modelo de predicción de mortalidad: Este modelo utiliza datos de pacientes para predecir la probabilidad de muerte en la UCI. Los datos pueden incluir variables como la edad del paciente, los niveles de presión arterial, los resultados de pruebas de laboratorio, la presencia de comorbilidades, entre otros.
+ 
+Modelo de detección de sepsis: Este modelo utiliza datos de pacientes para detectar la sepsis temprano y permitir un tratamiento oportuno. Los datos pueden incluir variables como la temperatura corporal, los niveles de lactato, los resultados de pruebas de laboratorio, entre otros.
+ 
+ 
 # ESTADO:
 <h4 align="center"> :beginner: Proyecto en proceso :beginner: </h4>
 
 ## MINI-DEMO
-![imagen1](https://github.com/RocioAldanaMendez/Medinova/blob/main/img/imagen1.jpg)
+![imagen1](https://github.com/CarCarrasco1/Cuidados_Intensivos/blob/main/assets/dash1.png)
+![imagen1](https://github.com/CarCarrasco1/Cuidados_Intensivos/blob/main/assets/dash2.png)
 
-## ACCESO-AL-PROYECTO
 
-## TECNOLOGÍAS
- 
 ## DESARROLLADORES
 
 | [<img src="https://avatars.githubusercontent.com/u/83037176?v=4" width=115><br><sub>Rocío Méndez</sub>](https://github.com/RocioAldanaMendez)  | [<img src="https://avatars.githubusercontent.com/u/109556951?v=4" width=115><br><sub>Carla Carrasco</sub>](https://github.com/CarCarrasco1) | [<img src="https://avatars.githubusercontent.com/u/106095273?v=4" width=115><br><sub>Osvaldo Spolzino</sub>](https://github.com/Rolajim) | [<img src="https://avatars.githubusercontent.com/u/114433631?v=4" width=115><br><sub>Mauren Hermosillo</sub>](https://github.com/Maurengit) |[<img src="https://avatars.githubusercontent.com/u/111803864?v=4" width=115><br><sub>Rodrigo Pérez</sub>](https://github.com/roprz) |
