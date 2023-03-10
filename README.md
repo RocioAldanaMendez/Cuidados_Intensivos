@@ -76,7 +76,15 @@ Scope of work, hace referencia a las herramientas tecnológicas que se implement
 
 - **Discord y Slack** reuniones diarias y semanales.
 
+ # CONCLUSIONES
 
+El análisis de Big Data parece tener un impacto positivo en la atención de enfermedades crónicas. A pesar de las preocupaciones de los costos de implementación y la eficacia del análisis de datos, los hospitales y otros entornos de atención crónica han visto resultados iniciales prometedores en términos de mejora en los resultados clínicos, así como en la financiación.
+
+ Modelo de predicción de mortalidad: Este modelo utiliza datos de pacientes para predecir la probabilidad de muerte en la UCI. Los datos pueden incluir variables como la edad del paciente, los niveles de presión arterial, los resultados de pruebas de laboratorio, la presencia de comorbilidades, entre otros.
+ 
+Modelo de detección de sepsis: Este modelo utiliza datos de pacientes para detectar la sepsis temprano y permitir un tratamiento oportuno. Los datos pueden incluir variables como la temperatura corporal, los niveles de lactato, los resultados de pruebas de laboratorio, entre otros.
+ 
+ 
 # ESTADO:
 <h4 align="center"> :beginner: Proyecto en proceso :beginner: </h4>
 
