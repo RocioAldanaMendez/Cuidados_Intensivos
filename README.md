@@ -47,7 +47,7 @@ Los principales puntos que abordaremos son los siguientes:
 
 - **Administración de recursos hospitalarios** mínimos para asegurar la calidad de atención y el servicio brindado.
 
-- Implementacion de** historales clínicos digitales**, de fácil lectura y carga.
+- Implementacion de **historales clínicos digitales**, de fácil lectura y carga.
 
 - **Gestión de datos del paciente**, convoca lo relacionado a optimizar flujos y almacenamiento de datos, como tambien la  correcta asignación de pacientes a las  unidades médicas.
 
