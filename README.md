@@ -116,7 +116,7 @@ La metodología Scrum permite abordar proyectos complejos desarrollados en entor
 
 Es una opción de gestión ideal para acometer proyectos desarrollados en entornos complejos que exigen rapidez en los resultados y en los que la flexibilidad es un requisito imprescindible. Scrum ofrece agilidad y el, resultado, siempre, valor. 
 
-Diagrama de organizacion `<link>`:<https://github.com/CarCarrasco1/Cuidados_Intensivos/blob/main/assets/Plan%20de%20trabajo.xlsx>
+Diagrama de organizacion `<link>`: <https://github.com/CarCarrasco1/Cuidados_Intensivos/blob/main/assets/Plan%20de%20trabajo.xlsx>
 
 ## ETL 
 
@@ -226,12 +226,12 @@ Obtener datos limpios y de calidad en la UCI es esencial para garantizar una ate
 
  
 
-##MINI-DEMO CONTENIDO EN AWS
+## MINI-DEMO CONTENIDO EN AWS
 
 ![imagen1](https://github.com/CarCarrasco1/Cuidados_Intensivos/blob/main/assets/dash1.png) 
 
 
-**LINK A LA DOCUMENTACIÓN:** `<link>`:<https://github.com/CarCarrasco1/Cuidados_Intensivos/blob/main/IEEE%20830%20MEDINOVA%20V1.4.doc>
+**LINK A LA DOCUMENTACIÓN:** `<link>`: <https://github.com/CarCarrasco1/Cuidados_Intensivos/blob/main/IEEE%20830%20MEDINOVA%20V1.4.doc>
 
 
 ## DESARROLLADORES
