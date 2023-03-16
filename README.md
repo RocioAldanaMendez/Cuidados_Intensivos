@@ -103,22 +103,22 @@ Scope of work, hace referencia a las herramientas tecnológicas que se implement
 
 - **Google Meet**, es un servicio de reuniones virtuales desarrollado por Google. 
 
-##PIPELINE y WORKFLOW
+## PIPELINE y WORKFLOW
 
 ![imagen1](https://github.com/CarCarrasco1/Cuidados_Intensivos/blob/main/assets/PIPELINE%202.0.drawioLLL.png) 
 
-![imagen1]https://github.com/CarCarrasco1/Cuidados_Intensivos/blob/main/assets/WORKFLOW.png) 
+![imagen1](https://github.com/CarCarrasco1/Cuidados_Intensivos/blob/main/assets/WORKFLOW.png) 
 
 
-#METODOLOGIA DE TRABAJO 
+# METODOLOGÍA DE TRABAJO 
 
 La metodología Scrum permite abordar proyectos complejos desarrollados en entornos dinámicos y cambiantes de un modo flexible. Está basada en entregas parciales y regulares del producto final en base al valor que ofrecen a los clientes. 
 
 Es una opción de gestión ideal para acometer proyectos desarrollados en entornos complejos que exigen rapidez en los resultados y en los que la flexibilidad es un requisito imprescindible. Scrum ofrece agilidad y el, resultado, siempre, valor. 
 
-Diagrama de organizacion `<link>` : <https://github.com/CarCarrasco1/Cuidados_Intensivos/blob/main/assets/Plan%20de%20trabajo.xlsx>
+Diagrama de organizacion `<link>`:<https://github.com/CarCarrasco1/Cuidados_Intensivos/blob/main/assets/Plan%20de%20trabajo.xlsx>
 
-##ETL 
+## ETL 
 
 El ETL es un proceso fundamental en la gestión de datos, utilizado con los siguientes fines: 
 
@@ -154,13 +154,17 @@ El ETL es un proceso fundamental en la gestión de datos, utilizado con los sigu
 
 -Modelado de relaciones entre los datos. 
 
-**MODELADO DE DATOS.**
+**MODELADO DE DATOS**
+
+**Médico**
 
 ![imagen1](https://github.com/CarCarrasco1/Cuidados_Intensivos/blob/main/assets/Modelado%20de%20DB%20-%20Medinova%202-Modelo%20m%C3%A9dico.drawio.png) 
 
+**Administrativo**
+
 ![imagen1](https://github.com/CarCarrasco1/Cuidados_Intensivos/blob/main/assets/Modelado%20de%20DB%20-%20Medinova%202-Modelo%20Financiero.drawio.png) 
 
-**ESQUEMA DE RELACIONES**
+### **ESQUEMA DE RELACIONES**
 
 ![imagen1](https://github.com/CarCarrasco1/Cuidados_Intensivos/blob/main/assets/Modelo_mimic3.png) 
 
@@ -170,7 +174,7 @@ El ETL es un proceso fundamental en la gestión de datos, utilizado con los sigu
 Se adjunta el link al archivo de desarrollo: `<link>` : <https://github.comETL     >
 
 
- ##KPI’s  
+## KPI’s  
 
 Medidas que se utilizan para evaluar el desempeño de la organización o en función de objetivos específicos. Se seleccionaron cuidadosamente para evaluar la eficacia de los esfuerzos para lograr objetivos. 
 
@@ -188,7 +192,7 @@ Los seleccionados para MEDINOVA son:
 
 - Disminuir en un 1.3% los prospectos más consumidos por año. 
 
- # CONCLUSIONES PRELIMINARES 
+# CONCLUSIONES PRELIMINARES 
 
  
 **ETAPA I** 
@@ -227,7 +231,7 @@ Obtener datos limpios y de calidad en la UCI es esencial para garantizar una ate
 ![imagen1](https://github.com/CarCarrasco1/Cuidados_Intensivos/blob/main/assets/dash1.png) 
 
 
-**LINK A LA DOCUMENTACIÓN:** `<link>` : <https://github.com/CarCarrasco1/Cuidados_Intensivos/blob/main/IEEE%20830%20MEDINOVA%20V1.4.doc>
+**LINK A LA DOCUMENTACIÓN:** `<link>`:<https://github.com/CarCarrasco1/Cuidados_Intensivos/blob/main/IEEE%20830%20MEDINOVA%20V1.4.doc>
 
 
 ## DESARROLLADORES
