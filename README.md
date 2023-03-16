@@ -1,32 +1,13 @@
-<<<<<<< Updated upstream
-
- <h1 align=center>
+<h1 align=center>
  
  ![](https://github.com/CarCarrasco1/Cuidados_Intensivos/blob/main/assets/blancogrande.png)
-=======
-<<<<<<< HEAD
-# PROYECTO FINAL
-
-# <h1 align=center> SMARTDATA
-### <h1 align=center> HENRY </h1>
->>>>>>> Stashed changes
 
 <h1 align=center> 
  
 ![](https://github.com/CarCarrasco1/Cuidados_Intensivos/blob/main/assets/medinovaneg.png)
 
-<<<<<<< Updated upstream
 
 ## INDICE
-=======
-## INDICE:
-=======
-## NOMBRE DEL PROYECTO 
-![](https://www.elsevier.com/__data/assets/image/0010/862876/Blog_960x436_Big-Data-sanitario_1.png)
-
-## INDICE
->>>>>>> 48974b4e47911dc0317f8c399043f1b5bc2e79bb
->>>>>>> Stashed changes
 <!-- TABLE OF CONTENTS -->
 <details>
   <summary>Tabla de contenido</summary>
@@ -48,39 +29,10 @@
   </ol>
 </details>
 
-<<<<<<< Updated upstream
 # INTRODUCCIÓN
 
 ¡Bienvenidos a nuestro proyecto!
 Somos **SMARTDATA** una empresa especializada en Data, en el siguiente repositorio encontrarán el proceso de desarrollo y la solución implementada para las Unidades de Cuidados Intesivos (UCI).
-=======
-<<<<<<< HEAD
-  
-## INTRODUCCIÓN
-
-¡Bienvenidos a nuestro proyecto!
-  
-Somos **SMARTDATA** una empresa especializada en Data, en el siguiente repositorio encontrarán el proceso de desarrollo y la solución implementada para las Unidades de Cuidados Intesivos (UCI).
-
-Para darles un poco más de contexto la situación evaluada fue enfocada a un centro de salud requiere de una solución completa de arquitectura de datos para poder gestionar todos estos datos y simplificar las gestiones de recursos del personal hospitalario, como también obtener toda la información analítica que puedan para optimizar los recursos disponibles.
-
-Desde el momento uno de este trabajo, se consideraron los temas relacionados con los gastos y recuros, pero sin dejar de lado la importancia ética y moral que se requiere en este ambiente profesional en especifico.
-
-## OBJETIVOS
-
-Para lograr recorrer un camino más claro, lo primero que se hizo fue plantear las metas a las cuales apuntamos a llegar, para dar una solución concreta, efectiva y escalable en el tiempo.
-
-Los principales puntos que abordaremos son los siguientes:
-
-- **Administración de recursos hospitalarios** mínimos para asegurar la calidad de atención y el servicio brindado.
-
-- Implementación de **historales clínicos digitales**, de fácil lectura y carga.
-=======
-# INTRODUCCIÓN
-
-¡Bienvenidos a nuestro proyecto!
-Somos xxxx una empresa especializada en Data, en el siguiente repositorio encontrarán el proceso de desarrollo y la solución implementada para las Unidades de Cuidados Intesivos (UCI).
->>>>>>> Stashed changes
 
 Para darles un poco más de contexto la situación evaluada fue enfocada a un centro de salud requiere de una solución completa de arquitectura de datos para poder gestionar todos estos datos y simplificar las gestiones de recursos del personal hospitalario, como también obtener toda la información analítica que puedan para optimizar los recursos disponibles.
 
@@ -94,7 +46,7 @@ Los principales puntos que abordaremos son los siguientes:
 
 - **Administración de recursos hospitalarios** mínimos para asegurar la calidad de atención y el servicio brindado.
 
-- Implementacion de** historales clínicos digitales**, de fácil lectura y carga.
+- Implementacion de **historales clínicos digitales**, de fácil lectura y carga.
 
 - **Gestión de datos del paciente**, convoca lo relacionado a optimizar flujos y almacenamiento de datos, como tambien la  correcta asignación de pacientes a las  unidades médicas.
 
@@ -122,9 +74,7 @@ Scope of work, hace referencia a las herramientas tecnológicas que se implement
 - **Word**, programa de procesamiento de textos, diseñado para ayudarle a crear documentos de calidad profesional, utilizado con la finalidad de documentar todo el trabajo.
 
 - **Discord y Slack** reuniones diarias y semanales.
->>>>>>> 48974b4e47911dc0317f8c399043f1b5bc2e79bb
 
-<<<<<<< Updated upstream
  # CONCLUSIONES  PRELIMINARES
 
 El análisis de Big Data parece tener un impacto positivo en la atención de enfermedades crónicas. A pesar de las preocupaciones de los costos de implementación y la eficacia del análisis de datos, los hospitales y otros entornos de atención crónica han visto resultados iniciales prometedores en términos de mejora en los resultados clínicos, así como en la financiación.
@@ -135,40 +85,6 @@ Modelo de detección de sepsis: Este modelo utiliza datos de pacientes para dete
  
  
 # ESTADO:
-=======
-## SCOPE OF WORK
-
-Scope of work, hace referencia a las herramientas tecnológicas que se implementaran, tales como:
-  
-- **Idioma** Español.
-
-- **Sistema operativo** Windows > versión 10.
-
-- **Visual Studio Code**, como el editor de código predilecto por su eficacia y potencia.
-
-- **Lenguajes de programación**, Python, por excelencia, y SQL.
-
-- **PowerBI/StreamLit**, herramientas de visualización.
-
-- **TRELLO**, para planificación de tareas diarias, por semanas.
-
-- **GITHUB** (Local, Nube y Desktop), para desarrollar las actividades democratizandolas y pudiendo todos los integrantes acceder a su contido, formando sinergia.
-
-- **DRAW.IO**, herramienta para dibujar cualquier tipo de mapas mentales, mapas conceptuales, esquemas o diferentes representaciones gráficas.
-
-- **Excel**, como guía para lista de requerimientos y asignación de roles.
-
-- **Word**, programa de procesamiento de textos, diseñado para ayudarle a crear documentos de calidad profesional, utilizado con la finalidad de documentar todo el trabajo.
-
-- **Discord y Slack**, reuniones diarias y semanales.
-
-<<<<<<< HEAD
-
-## ESTADO:
-=======
-# ESTADO:
->>>>>>> 48974b4e47911dc0317f8c399043f1b5bc2e79bb
->>>>>>> Stashed changes
 <h4 align="center"> :beginner: Proyecto en proceso :beginner: </h4>
 
 ## MINI-DEMO
@@ -183,9 +99,6 @@ Scope of work, hace referencia a las herramientas tecnológicas que se implement
 
 
  ## SUPERVICIÓN
-
-+ Maico Bernal
-
 
 + Maico Bernal
 
