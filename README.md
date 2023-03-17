@@ -253,9 +253,12 @@ Obtener datos limpios y de calidad en la UCI es esencial para garantizar una ate
 
 
  ## SUPERVICIÓN
+ | [<img src="https://avatars.githubusercontent.com/u/98837320?v=4" width=115><br><sub>Dr. Maico Bernal</sub>](https://github.com/maicobernal)  |
+| :---: |
 
 **Dr.Maico Bernal** - Médico y Data Science - 
 
 
-Muchisimas gracias por ver este desarrollo, podes seguir los futuros cambios dandole una estrellita en la parte superior derecha del repositorio. Podés Clonarlo, y/o podes hacer un PullRequest ya que todo aporte es bienvenido. :smiley: :wave: 
+
+<i>Muchisimas gracias por ver este desarrollo, podes seguir los futuros cambios dandole una estrellita en la parte superior derecha del repositorio. Podés Clonarlo, y/o podes hacer un PullRequest ya que todo aporte es bienvenido.</i> :smiley::wave: 
 
