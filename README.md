@@ -114,11 +114,11 @@ Scope of work, hace referencia a las herramientas tecnológicas que se implement
 
 La metodología Scrum permite abordar proyectos complejos desarrollados en entornos dinámicos y cambiantes de un modo flexible. Está basada en entregas parciales y regulares del producto final en base al valor que ofrecen a los clientes. 
 
-Es una opción de gestión ideal para acometer proyectos desarrollados en entornos complejos que exigen rapidez en los resultados y en los que la flexibilidad es un requisito imprescindible. Scrum ofrece agilidad y el, resultado, siempre, valor. 
+Es una opción de gestión ideal para acometer proyectos desarrollados en entornos complejos que exigen rapidez en los resultados y en los que la flexibilidad es un requisito imprescindible. Scrum ofrece agilidad y el resultados de valor. 
 
-Diagrama de organizacion `<link>`: <https://github.com/CarCarrasco1/Cuidados_Intensivos/blob/main/assets/Plan%20de%20trabajo.xlsx>
+Diagrama de organización `<link>`: <https://github.com/CarCarrasco1/Cuidados_Intensivos/blob/main/assets/Plan%20de%20trabajo.xlsx>
 
-## ETL 
+# ETL 
 
 El ETL es un proceso fundamental en la gestión de datos, utilizado con los siguientes fines: 
 
@@ -169,12 +169,15 @@ El ETL es un proceso fundamental en la gestión de datos, utilizado con los sigu
 ![imagen1](https://github.com/CarCarrasco1/Cuidados_Intensivos/blob/main/assets/Modelo_mimic3.png) 
 
 
-**Diccionario**link a diccionario, para una mejor comprensión de los datos. 
+**Diccionario**,  `<link>` : <https://github.com/CarCarrasco1/Cuidados_Intensivos/blob/main/assets/DICCIONARIO_MIMIC.pdf>  
 
-Se adjunta el link al archivo de desarrollo: `<link>` : <https://github.comETL     >
+Se adjuntan los links de desarrollo: 
 
+`<link>` : <https://github.com/RocioAldanaMendez/Cuidados_Intensivos/blob/main/datatype%20.sql> 
 
-## KPI’s  
+`<link>` : <https://github.com/RocioAldanaMendez/Cuidados_Intensivos/blob/main/Dump20230316.zip>
+
+# KPI’s  
 
 Medidas que se utilizan para evaluar el desempeño de la organización o en función de objetivos específicos. Se seleccionaron cuidadosamente para evaluar la eficacia de los esfuerzos para lograr objetivos. 
 
@@ -228,10 +231,13 @@ Obtener datos limpios y de calidad en la UCI es esencial para garantizar una ate
 
 ## MINI-DEMO CONTENIDO EN AWS
 
-![imagen1](https://github.com/CarCarrasco1/Cuidados_Intensivos/blob/main/assets/dash1.png) 
+![imagen1](https://github.com/RocioAldanaMendez/Cuidados_Intensivos/blob/main/assets/airflow01.jpg) 
+![imagen1](https://github.com/RocioAldanaMendez/Cuidados_Intensivos/blob/main/assets/airfow02.png) 
+![imagen1](https://github.com/RocioAldanaMendez/Cuidados_Intensivos/blob/main/assets/airflow03.png) 
 
 
-**LINK A LA DOCUMENTACIÓN:** `<link>`: <https://github.com/CarCarrasco1/Cuidados_Intensivos/blob/main/IEEE%20830%20MEDINOVA%20V1.4.doc>
+
+**LINK A LA DOCUMENTACIÓN:** `<link>`: <https://github.com/RocioAldanaMendez/Cuidados_Intensivos/blob/main/IEEE_830_MEDINOVA_V2.2.docx>
 
 
 ## DESARROLLADORES
@@ -251,4 +257,5 @@ Obtener datos limpios y de calidad en la UCI es esencial para garantizar una ate
 **Dr.Maico Bernal** - Médico y Data Science - 
 
 
-Muchisimas gracias por ver este desarrollo, podes seguir los futuros cambios dandole una estrellita en la parte superior derecha del repositorio. Podés Clonarlo, y/o podes hacer un PullRequest ya que todo aporte es bienvenido. :smiley: :wave:
+Muchisimas gracias por ver este desarrollo, podes seguir los futuros cambios dandole una estrellita en la parte superior derecha del repositorio. Podés Clonarlo, y/o podes hacer un PullRequest ya que todo aporte es bienvenido. :smiley: :wave: 
+
