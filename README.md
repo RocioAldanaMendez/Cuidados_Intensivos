@@ -118,7 +118,7 @@ Es una opción de gestión ideal para acometer proyectos desarrollados en entorn
 
 Diagrama de organización `<link>`: <https://github.com/CarCarrasco1/Cuidados_Intensivos/blob/main/assets/Plan%20de%20trabajo.xlsx>
 
-## ETL 
+# ETL 
 
 El ETL es un proceso fundamental en la gestión de datos, utilizado con los siguientes fines: 
 
@@ -177,7 +177,7 @@ Se adjuntan los links de desarrollo:
 
 `<link>` : <https://github.com/RocioAldanaMendez/Cuidados_Intensivos/blob/main/Dump20230316.zip>
 
-## KPI’s  
+# KPI’s  
 
 Medidas que se utilizan para evaluar el desempeño de la organización o en función de objetivos específicos. Se seleccionaron cuidadosamente para evaluar la eficacia de los esfuerzos para lograr objetivos. 
 
