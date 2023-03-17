@@ -254,5 +254,5 @@ Obtener datos limpios y de calidad en la UCI es esencial para garantizar una ate
 **Dr.Maico Bernal** - Médico y Data Science - 
 
 
-Muchisimas gracias por ver este desarrollo, podes seguir los futuros cambios dandole una estrellita en la parte superior derecha del repositorio. Podés Clonarlo, y/o podes hacer un PullRequest ya que todo aporte es bienvenido. :smiley: :wave:
+Muchisimas gracias por ver este desarrollo, podes seguir los futuros cambios dandole una estrellita en la parte superior derecha del repositorio. Podés Clonarlo, y/o podes hacer un PullRequest ya que todo aporte es bienvenido. :smiley: :wave: 
 
