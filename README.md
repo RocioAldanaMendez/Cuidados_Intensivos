@@ -231,7 +231,10 @@ Obtener datos limpios y de calidad en la UCI es esencial para garantizar una ate
 
 ## MINI-DEMO CONTENIDO EN AWS
 
-![imagen1](https://github.com/CarCarrasco1/Cuidados_Intensivos/blob/main/assets/dash1.png) 
+![imagen1](https://github.com/RocioAldanaMendez/Cuidados_Intensivos/blob/main/assets/airflow01.jpg) 
+![imagen1](https://github.com/RocioAldanaMendez/Cuidados_Intensivos/blob/main/assets/airfow02.png) 
+![imagen1](https://github.com/RocioAldanaMendez/Cuidados_Intensivos/blob/main/assets/airflow03.png) 
+
 
 
 **LINK A LA DOCUMENTACIÓN:** `<link>`: <https://github.com/RocioAldanaMendez/Cuidados_Intensivos/blob/main/IEEE_830_MEDINOVA_V2.2.docx>
