@@ -118,7 +118,7 @@ Es una opción de gestión ideal para acometer proyectos desarrollados en entorn
 
 Diagrama de organización `<link>`: <https://github.com/CarCarrasco1/Cuidados_Intensivos/blob/main/assets/Plan%20de%20trabajo.xlsx>
 
-## ETL 
+# ETL 
 
 El ETL es un proceso fundamental en la gestión de datos, utilizado con los siguientes fines: 
 
@@ -177,7 +177,7 @@ Se adjuntan los links de desarrollo:
 
 `<link>` : <https://github.com/RocioAldanaMendez/Cuidados_Intensivos/blob/main/Dump20230316.zip>
 
-## KPI’s  
+# KPI’s  
 
 Medidas que se utilizan para evaluar el desempeño de la organización o en función de objetivos específicos. Se seleccionaron cuidadosamente para evaluar la eficacia de los esfuerzos para lograr objetivos. 
 
@@ -253,9 +253,12 @@ Obtener datos limpios y de calidad en la UCI es esencial para garantizar una ate
 
 
  ## SUPERVICIÓN
+ | [<img src="https://avatars.githubusercontent.com/u/98837320?v=4" width=115><br><sub>Dr. Maico Bernal</sub>](https://github.com/maicobernal)  |
+| :---: |
 
 **Dr.Maico Bernal** - Médico y Data Science - 
 
 
-Muchisimas gracias por ver este desarrollo, podes seguir los futuros cambios dandole una estrellita en la parte superior derecha del repositorio. Podés Clonarlo, y/o podes hacer un PullRequest ya que todo aporte es bienvenido. :smiley: :wave: 
+
+<i>Muchisimas gracias por ver este desarrollo, podes seguir los futuros cambios dandole una estrellita en la parte superior derecha del repositorio. Podés Clonarlo, y/o podes hacer un PullRequest ya que todo aporte es bienvenido.</i> :smiley::wave: 
 

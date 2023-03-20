@@ -1,0 +1,5 @@
+El archivo entrypoint.sh se utiliza comúnmente en contextos de Docker y Airflow para iniciar el contenedor y/o el servicio.
+
+En el caso de Docker, entrypoint.sh se utiliza para especificar un script que se ejecutará cuando se inicie un contenedor. Este script generalmente se encarga de configurar el entorno del contenedor, ejecutar comandos y servicios, y gestionar cualquier otra tarea necesaria para que el contenedor funcione correctamente. En el caso de Airflow, entrypoint.sh se utiliza para iniciar el servidor web de Airflow y otros procesos necesarios para que el sistema de orquestación de tareas funcione correctamente.
+
+El archivo entrypoint.sh se puede personalizar para incluir comandos y configuraciones específicas que sean necesarias para el funcionamiento del contenedor o del servicio. Por ejemplo, puede utilizarse para configurar variables de entorno, instalar dependencias, realizar pruebas, y cualquier otra tarea necesaria para que el contenedor o servicio se ejecute de manera eficiente y efectiva.

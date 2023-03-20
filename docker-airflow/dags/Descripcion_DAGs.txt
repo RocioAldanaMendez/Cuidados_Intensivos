@@ -1,0 +1,9 @@
+En el contexto de Airflow, los DAGs (Directed Acyclic Graphs) son una forma de definir y orquestar tareas (también llamadas "operadores") que deben ejecutarse en un orden específico y siguiendo una lógica determinada.
+
+Un DAG es un grafo acíclico dirigido que se compone de nodos y aristas. En Airflow, los nodos son los operadores y las aristas son las dependencias entre ellos. Los DAGs de Airflow son definidos en Python y se componen de un conjunto de operadores conectados entre sí mediante dependencias.
+
+Cada tarea u operador en un DAG tiene una función específica y se ejecuta en un momento determinado. Las dependencias establecidas en el DAG indican el orden en que las tareas deben ejecutarse. Cuando todas las dependencias de una tarea están satisfechas, se puede ejecutar esa tarea. Airflow se encarga de orquestar la ejecución de todas las tareas de acuerdo con las dependencias establecidas en el DAG.
+
+Un ejemplo común de DAG en Airflow sería una tarea que se ejecuta diariamente para extraer datos de una fuente, luego transforma los datos y finalmente carga los datos en una base de datos. Cada una de estas etapas se ejecutaría como una tarea individual dentro del DAG, con las dependencias apropiadas para garantizar que se ejecuten en el orden correcto y que se cumpla la lógica del proceso de ETL (Extract, Transform, Load).
+
+En resumen, los DAGs son una forma poderosa de definir flujos de trabajo complejos y estructurados en Airflow. Permiten definir la secuencia de tareas y sus dependencias de manera clara y ordenada, lo que facilita la gestión y el monitoreo del proceso de ejecución.
