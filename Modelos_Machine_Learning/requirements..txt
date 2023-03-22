@@ -1,8 +1,0 @@
-pandas
-numpy
-matplotlib.pyplot
-sklearn
-Jinja2
-flask
-scikit-surprise
-surprise

@@ -4,7 +4,7 @@ import gradio as gr
 import sklearn
 
 # Cargar el modelo desde un archivo
-with open('sepsis_model.pkl', 'rb') as archivo:
+with open(r'C:\Users\rocio\OneDrive\Escritorio\Cuidados_Intensivos\Modelos_Machine_Learning\sepsis_model.pkl', 'rb') as archivo:
     modelo = pickle.load(archivo)
 
 def predict_sepsis(ritmo_cardiaco, GCS, PAS):
@@ -40,4 +40,4 @@ inputs = [gr.inputs.Number(label="ritmo_cardiaco"),
           gr.inputs.Number(label="PAS")]
 output = gr.outputs.Textbox(label="Sepsis")
 
-gr.Interface(fn=predict_sepsis, inputs=inputs, outputs=output).launch()
+gr.Interface(fn=predict_sepsis, inputs=inputs, outputs=output).launch(share=True)
