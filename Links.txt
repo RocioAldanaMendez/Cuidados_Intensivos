@@ -1,0 +1,19 @@
+Deploy ML Detección de Sepsis: https://huggingface.co/spaces/RoTesla/Deteccion_Sepsis
+
+Dashboard Administrativo:
+https://app.powerbi.com/links/q8aWXXWHZY?ctid=bd085bdc-7e08-4b26-870c-a9331a90ec70&pbi_source=linkShare
+
+Dashboard Médico:
+https://app.powerbi.com/links/QldRymcn6w?ctid=bd085bdc-7e08-4b26-870c-a9331a90ec70&pbi_source=linkShare
+
+Documentación IEEE-830:
+
+Documentación Modelos de Machine Learning:
+
+
+Presentaciones:
+-N°1: https://www.canva.com/design/DAFcqWbyXV4/4VQUb4WsDvZ1KSeKn2wnlg/view?utm_content=DAFcqWbyXV4&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink
+
+-N°2: https://www.canva.com/design/DAFdLi2rk-c/agA37Lck8SPq8QgA_aul8A/view?utm_content=DAFdLi2rk-c&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink
+
+-N°3:
