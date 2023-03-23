@@ -47,12 +47,6 @@ Scope of work, hace referencia a las herramientas tecnológicas que se implement
 - **WINDOWS**, en sus versiones mayores o iguales a 10. Sistema operativo que posibilita la administración de los recursos de una computadora. Desarrollados y vendido por Microsoft.
 
 
-- **VIRTUAL BOX**, Software de virtualización para arquitecturas. Desarrollado por Oracle.
-
-
-- **UBUNTU**, es una distribución Linux, incluye principalmente software libre y de código abierto.
-
-
 - **AWS**, colección de servicios de computación en la nube pública que en conjunto forman una plataforma de computación en la nube.
 
 
@@ -180,7 +174,7 @@ Se adjuntan los links de desarrollo:
 
 ## AUTOMATIZACIÓN
 
-![imagen1](https://github.com/RocioAldanaMendez/Cuidados_Intensivos/blob/main/assets/WhatsApp%20Image%202022-11-30%20at%2010.12.12.jpeg) 
+![imagen1](https://raw.githubusercontent.com/RocioAldanaMendez/Cuidados_Intensivos/main/assets/Video%20de%20WhatsApp%202023-03-23%20a%20las%2013.53.50.mp4) 
 
 A continuación se adjunta el link para ingresar a la carpeta con los archivos DAG's : `<link>`: <INGRESAR LINKKKKKK>
 
