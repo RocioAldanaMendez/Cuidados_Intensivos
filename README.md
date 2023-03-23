@@ -173,7 +173,7 @@ Se adjuntan los links de desarrollo:
 
 
 ## AUTOMATIZACIÓN
-
+[![Alt Text](https://raw.githubusercontent.com/RocioAldanaMendez/Cuidados_Intensivos/main/assets/Video%20de%20WhatsApp%202023-03-23%20a%20las%2013.53.50.mp4)]
 ![imagen1](https://raw.githubusercontent.com/RocioAldanaMendez/Cuidados_Intensivos/main/assets/Video%20de%20WhatsApp%202023-03-23%20a%20las%2013.53.50.mp4) 
 
 A continuación se adjunta el link para ingresar a la carpeta con los archivos DAG's : `<link>`: <INGRESAR LINKKKKKK>
