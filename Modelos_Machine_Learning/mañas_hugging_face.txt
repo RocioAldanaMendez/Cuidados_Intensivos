@@ -1,0 +1,11 @@
+*Basicamente no tiene que estar compartido con el link publico la parte de share=true entre los parentesis porque si no no lo puede levantar
+
+*Las librerias surprise y sklearn no las lee asi, deben ir asi:
+
+scikit-surprise
+
+scikit-learn
+
+*El archivo que va a correr el modelo que es el .py debe referenciar al que contiene el modelo, en este caso .pickle, pero no la ruta completa local si no solo del archivo.
+
+

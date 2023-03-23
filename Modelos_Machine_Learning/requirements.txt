@@ -1,6 +1,6 @@
 pandas
 numpy
+scikit-surprise
+surprise
 sklearn
-sklearn.tree
-sklearn.model_selection
-pickle
+scikit-learn
