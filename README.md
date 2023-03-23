@@ -74,7 +74,7 @@ Scope of work, hace referencia a las herramientas tecnológicas que se implement
 - **PowerBI**, es un servicio de análisis de datos de Microsoft orientado a proporcionar visualizaciones interactivas y capacidades de inteligencia empresarial con una interfaz óptima y sencilla. 
 
 
-- **Streamlit**, es un framework open source para la creación de aplicaciones web interactivas y basadas en datos. Está diseñado para facilitar la creación de aplicaciones de machine learning, visualización de datos y paneles de control de manera rápida y sencilla. 
+- **Gradio**, es una libreria con una interfaz que se genera automáticamente y entrega un enlace público que se puede compartir para  interactuar con el modelo en su computadora de forma remota desde sus propios dispositivos.
 
 
 - **TRELLO**, un software de administración y organización de proyectos con interfaz web.
@@ -177,6 +177,13 @@ Se adjuntan los links de desarrollo:
 
 `<link>` : <https://github.com/RocioAldanaMendez/Cuidados_Intensivos/blob/main/Dump20230316.zip>
 
+
+## AUTOMATIZACIÓN
+
+![imagen1](https://github.com/RocioAldanaMendez/Cuidados_Intensivos/blob/main/assets/WhatsApp%20Image%202022-11-30%20at%2010.12.12.jpeg) 
+
+A continuación se adjunta el link para ingresar a la carpeta con los archivos DAG's : `<link>`: <INGRESAR LINKKKKKK>
+
 # KPI’s  
 
 Medidas que se utilizan para evaluar el desempeño de la organización o en función de objetivos específicos. Se seleccionaron cuidadosamente para evaluar la eficacia de los esfuerzos para lograr objetivos. 
@@ -185,55 +192,64 @@ Proporcionan información objetiva y medible sobre el desempeño, permite tomar 
 
 Los seleccionados para MEDINOVA son: 
 
-- Recortar un 2% la tasa de reingreso de pacientes por año. 
+- Reducir el 2% el reingreso de pacientas a la UCI. 
 
-- Reducir un 1.2% la tasa de mortalidad por año.  
+- Reducir el promedio de días innecesarios de internaciones. 
 
-- Disminuir en 0.9% la tasa anual de error de tratamiento. 
+- Reducir la cantidad de medicamentos innecesarios recetados.
 
-- Reducir el 0.25% del promedio de ocupación de camas anualmente. 
+- Reducir la cantidad de muertes a 10 de cada 100 ingresos dentro de la estadia de la unidad. 
 
-- Disminuir en un 1.3% los prospectos más consumidos por año. 
+-  Aumentar la cantidad de personal para atención, llegando a un máximo de 4 pacientes por profesional.
 
-# CONCLUSIONES PRELIMINARES 
+# DASHBOARDS
+
+## ADMINISTRATIVO
+
+![imagen1](https://github.com/CarCarrasco1/Cuidados_Intensivos/blob/main/assets/Dashaboard_admi_page-0001.jpg) 
+
+## MÉDICO
+
+![imagen1](https://github.com/CarCarrasco1/Cuidados_Intensivos/blob/main/assets/Imagen%20de%20WhatsApp%202023-03-23%20a%20las%2017.35.17.jpg) 
+
+
+A continuación se adjunta el link para poder visualizarlos en su carpeta e interactuar con ellos:  `<link>`: <
+https://github.com/RocioAldanaMendez/Cuidados_Intensivos/tree/main/Dashboards>
+
+
+# MODELO DE MACHINE LEARNING
+
+Como cierre se hace entrega de los modelos de Machine Learning que ayudaran especificamente al personal médico de UCI. 
+
+**Modelo de predicción de mortalidad** 
+
+Este modelo utiliza datos de pacientes para predecir la probabilidad de muerte en la UCI. Los datos pueden incluir variables como la edad del paciente, los niveles de presión arterial, los resultados de pruebas de laboratorio, la presencia de comorbilidades, entre otros. 
+
+  ![imagen1]() 
+
+
+**Modelo de detección de sepsis**
+
+ Este modelo utiliza datos de pacientes para detectar la sepsis temprano y permitir un tratamiento oportuno. Los datos pueden incluir variables como la temperatura corporal, los niveles de lactato, los resultados de pruebas de laboratorio, entre otros. 
+
+
+  ![imagen1]() 
+
+
+# CONCLUSIONES 
 
  
-**ETAPA I** 
-
-
 El análisis de Big Data parece tener un impacto positivo en la atención de enfermedades crónicas. A pesar de las preocupaciones de los costos de implementación y la eficacia del análisis de datos, los hospitales y otros entornos de atención crónica han visto resultados iniciales prometedores en términos de mejora en los resultados clínicos, así como en la financiación. 
-
-
-Modelo de predicción de mortalidad: Este modelo utiliza datos de pacientes para predecir la probabilidad de muerte en la UCI. Los datos pueden incluir variables como la edad del paciente, los niveles de presión arterial, los resultados de pruebas de laboratorio, la presencia de comorbilidades, entre otros. 
-
-
-Modelo de detección de sepsis: Este modelo utiliza datos de pacientes para detectar la sepsis temprano y permitir un tratamiento oportuno. Los datos pueden incluir variables como la temperatura corporal, los niveles de lactato, los resultados de pruebas de laboratorio, entre otros. 
-
-**ETAPA II** 
 
 
 La automatización del flujo de carga de datos reduce el trabajo manual, mejora la calidad y precisión del dato y reduce el tiempo de disposición de la información que son indispensables para la toma de decisiones en UCI.  
 
-
-La importancia para Medinova de contar con un DW para integración, gestión, almacenamiento y análisis de grandes cantidades de información de varias fuentes en una sola ubicación centralizada. 
-
-
 Obtener datos limpios y de calidad en la UCI es esencial para garantizar una atención médica segura y efectiva para los pacientes. Así como para la investigación, análisis y posterior prevención de afectaciones. 
 
 
-## MINI-DEMO PRODUCTOS 
+Gracias a las investigaciones basadas en los datos, se pueden obtener productos de gran eficacia y uso en la unidad de cuidados intensivos, para poder dar soluciones a dos de los problemas más latentes que se detectaron como lo son los ingresos por sepsis y la mortalidad. Así como también mejorar la visualización y disposición de los mismos.
 
-![imagen1](https://github.com/CarCarrasco1/Cuidados_Intensivos/blob/main/assets/dash1.png) 
-
-![imagen1](https://github.com/CarCarrasco1/Cuidados_Intensivos/blob/main/assets/dash2.png) 
-
- 
-
-## MINI-DEMO CONTENIDO EN AWS
-
-![imagen1](https://github.com/RocioAldanaMendez/Cuidados_Intensivos/blob/main/assets/airflow01.jpg) 
-![imagen1](https://github.com/RocioAldanaMendez/Cuidados_Intensivos/blob/main/assets/airfow02.png) 
-![imagen1](https://github.com/RocioAldanaMendez/Cuidados_Intensivos/blob/main/assets/airflow03.png) 
+De la mano de *Smartdata*, la solución provista es este proyecto denominado *Medinova*, concreta con sus productos para médicos y administrativos.
 
 
 
