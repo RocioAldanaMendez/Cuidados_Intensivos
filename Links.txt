@@ -1,5 +1,7 @@
 Deploy ML Detección de Sepsis: https://huggingface.co/spaces/RoTesla/Deteccion_Sepsis
 
+Deploy ML Predicción de mortalidad: https://huggingface.co/spaces/RoTesla/Prediccion_Mortalidad_en_UCI
+
 Dashboard Administrativo:
 https://app.powerbi.com/links/q8aWXXWHZY?ctid=bd085bdc-7e08-4b26-870c-a9331a90ec70&pbi_source=linkShare
 

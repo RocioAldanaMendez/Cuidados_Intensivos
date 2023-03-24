@@ -28,6 +28,8 @@ ENV LC_MESSAGES en_US.UTF-8
 # Disable noisy "Handling signal" log messages:
 # ENV GUNICORN_CMD_ARGS --log-level WARNING
 
+ pip install pymysql
+
 RUN set -ex \
     && buildDeps=' \
         freetds-dev \
@@ -56,6 +58,8 @@ RUN set -ex \
     && useradd -ms /bin/bash -d ${AIRFLOW_USER_HOME} airflow \
     && pip install -U pip setuptools wheel \
     && pip install pytz \
+	&& pip install mysql-connector-python \
+	&& pip install pymysql \
     && pip install pyOpenSSL \
     && pip install ndg-httpsclient \
     && pip install pyasn1 \
