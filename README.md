@@ -175,11 +175,11 @@ Se adjuntan los links de desarrollo:
 ## AUTOMATIZACIÓN
  
 
-
  Documentación filmica AQUÍ `<link>`: <https://raw.githubusercontent.com/RocioAldanaMendez/Cuidados_Intensivos/main/assets/Video%20de%20WhatsApp%202023-03-23%20a%20las%2013.53.50.mp4>
 
 
-A continuación se adjunta el link para ingresar a la carpeta con los archivos DAG's : `<link>`: <INGRESAR LINKKKKKK>
+A continuación se adjunta el link para ingresar a la carpeta con los archivos DAG's : `<link>`: <https://github.com/RocioAldanaMendez/Cuidados_Intensivos/tree/main/Automatizacion/Medinova_servicios%20-%20Github>
+
 
 # KPI’s  
 
@@ -222,7 +222,9 @@ Como cierre se hace entrega de los modelos de Machine Learning que ayudaran espe
 
 Este modelo utiliza datos de pacientes para predecir la probabilidad de muerte en la UCI. Los datos pueden incluir variables como los niveles de presión arterial, los resultados de pruebas de laboratorio, la presencia de comorbilidades, entre otros. 
 
-  ![imagen1]() 
+ `<link>`: < https://huggingface.co/spaces/RoTesla/Prediccion_Mortalidad_en_UCI>
+
+  ![imagen1](https://github.com/CarCarrasco1/Cuidados_Intensivos/blob/main/assets/2.gif) 
 
 
 **Modelo de detección de sepsis**
@@ -230,7 +232,9 @@ Este modelo utiliza datos de pacientes para predecir la probabilidad de muerte e
  Este modelo utiliza datos de pacientes para detectar la sepsis temprano y permitir un tratamiento oportuno. Los datos pueden incluir variables como la temperatura corporal, los niveles de lactato, los resultados de pruebas de laboratorio, entre otros. 
 
 
-  ![imagen1]() 
+ `<link>`: <https://huggingface.co/spaces/RoTesla/Deteccion_Sepsis>
+
+  ![imagen1](https://github.com/CarCarrasco1/Cuidados_Intensivos/blob/main/assets/1.gif) 
 
 
 # CONCLUSIONES 
