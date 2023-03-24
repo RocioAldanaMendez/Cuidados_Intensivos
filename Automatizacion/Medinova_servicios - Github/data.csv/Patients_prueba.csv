@@ -1,0 +1,2 @@
+row_id,subject_id,gender,dob,dod,dod_hosp,dod_ssn,expire_flag
+1111,11111,F,2094-03-05 00:00:00,2165-08-12 00:00:00,2165-08-12 00:00:00,2165-08-12 00:00:00,1
