@@ -220,7 +220,7 @@ Como cierre se hace entrega de los modelos de Machine Learning que ayudaran espe
 
 **Modelo de predicción de mortalidad** 
 
-Este modelo utiliza datos de pacientes para predecir la probabilidad de muerte en la UCI. Los datos pueden incluir variables como la edad del paciente, los niveles de presión arterial, los resultados de pruebas de laboratorio, la presencia de comorbilidades, entre otros. 
+Este modelo utiliza datos de pacientes para predecir la probabilidad de muerte en la UCI. Los datos pueden incluir variables como los niveles de presión arterial, los resultados de pruebas de laboratorio, la presencia de comorbilidades, entre otros. 
 
   ![imagen1]() 
 
