@@ -7,8 +7,10 @@ Dashboard Médico:
 https://app.powerbi.com/links/QldRymcn6w?ctid=bd085bdc-7e08-4b26-870c-a9331a90ec70&pbi_source=linkShare
 
 Documentación IEEE-830:
+https://docs.google.com/document/d/1ODlYBHm-fw2_t8URgIwGUUzYunN-EUld/edit?usp=sharing&ouid=114841980981842567297&rtpof=true&sd=true
 
 Documentación Modelos de Machine Learning:
+https://docs.google.com/document/d/19_NjT6TqH7ojMnrAgOHih1eSmi0ZDY0k/edit?usp=sharing&ouid=114841980981842567297&rtpof=true&sd=true
 
 
 Presentaciones:
@@ -16,4 +18,4 @@ Presentaciones:
 
 -N°2: https://www.canva.com/design/DAFdLi2rk-c/agA37Lck8SPq8QgA_aul8A/view?utm_content=DAFdLi2rk-c&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink
 
--N°3:
+-N°3: https://www.canva.com/design/DAFeDCHGEHI/R-0PY75wB9q2XXoYr972Jw/view?utm_content=DAFeDCHGEHI&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink
