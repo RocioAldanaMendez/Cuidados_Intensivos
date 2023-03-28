@@ -71,7 +71,7 @@ Scope of work, hace referencia a las herramientas tecnológicas que se implement
 - **PowerBI**, es un servicio de análisis de datos de Microsoft orientado a proporcionar visualizaciones interactivas y capacidades de inteligencia empresarial con una interfaz óptima y sencilla. 
 
 
--**Streamlit**, es un “framework” de Python de código abierto que permite de manera sencilla e integrada desarrollar aplicaciones gracias a la interacción con otras librerías para su empleo.
+- **Streamlit**, es un “framework” de Python de código abierto que permite de manera sencilla e integrada desarrollar aplicaciones gracias a la interacción con otras librerías para su empleo.
 
 
 - **TRELLO**, un software de administración y organización de proyectos con interfaz web.
@@ -107,7 +107,7 @@ La metodología Scrum permite abordar proyectos complejos desarrollados en entor
 
 Es una opción de gestión ideal para acometer proyectos desarrollados en entornos complejos que exigen rapidez en los resultados y en los que la flexibilidad es un requisito imprescindible. Scrum ofrece agilidad y el resultados de valor. 
 
-Diagrama de organización `<link>`: <https://github.com/CarCarrasco1/Cuidados_Intensivos/blob/main/assets/Plan%20de%20trabajo.xlsx>
+**Diagrama de Gantt** `<link>`: <https://github.com/CarCarrasco1/Cuidados_Intensivos/blob/main/assets/Plan%20de%20trabajo.xlsx>
 
 # ETL 
 
@@ -256,7 +256,9 @@ Entonces es gracias a las investigaciones basadas en los datos, es que se pueden
 
 De la mano de *Smartdata*, con proyectos como **Medinova** hacemos realidad esta visión y reafirmamos un compromiso que nos mueve: 
 
-*"La tecnología es importante, pero lo único que realmente importa es que hacemos con ella." Muhammad Yunus*
+
+***"La tecnología es importante, pero lo único que realmente importa es que hacemos con ella."***
+ ***Muhammad Yunus***
 
 
 
