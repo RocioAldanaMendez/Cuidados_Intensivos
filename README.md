@@ -181,7 +181,7 @@ Se adjuntan los links de desarrollo:
 
 ## WORKFLOW AIRFLOW
 
- Documentación [VIDEO](https://raw.githubusercontent.com/RocioAldanaMendez/Cuidados_Intensivos/main/assets/Video%20de%20WhatsApp%202023-03-23%20a%20las%2013.53.50.mp4)
+ Documentación [VIDEO](https://raw.githubusercontent.com/RocioAldanaMendez/Cuidados_Intensivos/main/Videos/worflow_FBEY7ckF.mp4)
 
 
 A continuación se adjunta el link para ingresar a la carpeta con los archivos [DAG's](https://github.com/RocioAldanaMendez/Cuidados_Intensivos/tree/main/Atomatizacion_v2.0/Medinova_servicios/dags)
