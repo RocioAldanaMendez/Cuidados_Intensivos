@@ -1,0 +1,2 @@
+,row_id,subject_id,hadm_id,itemid,charttime,value,valuenum,valueuom,flag
+1111,11111,10126,160445.0,51275,2171-07-24 01:30:00,29.9,29.9,sec,
