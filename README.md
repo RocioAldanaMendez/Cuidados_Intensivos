@@ -59,6 +59,9 @@ Scope of work, hace referencia a las herramientas tecnológicas que se implement
 - **AIRFLOW**, para la carga y control de flujo, gestiona el flujo de datos, de código abierto, escrito en Python.
 
 
+- **RDS**, es un servicio de Bases de Datos Relacionales Es un servicio web que se ejecuta "en la nube" diseñado para simplificar la configuración, el funcionamiento y el escalado.
+
+
 - **Visual Studio Code**, es un editor de código fuente desarrollado por Microsoft para Windows, Linux, macOS y Web. Incluye soporte para la depuración, control integrado de Git, resaltado de sintaxis, finalización inteligente de código, fragmentos y refactorización de código. 
 
 
@@ -68,7 +71,7 @@ Scope of work, hace referencia a las herramientas tecnológicas que se implement
 - **PowerBI**, es un servicio de análisis de datos de Microsoft orientado a proporcionar visualizaciones interactivas y capacidades de inteligencia empresarial con una interfaz óptima y sencilla. 
 
 
-- **Gradio**, es una libreria con una interfaz que se genera automáticamente y entrega un enlace público que se puede compartir para  interactuar con el modelo en su computadora de forma remota desde sus propios dispositivos.
+- **Streamlit**, es un “framework” de Python de código abierto que permite de manera sencilla e integrada desarrollar aplicaciones gracias a la interacción con otras librerías para su empleo.
 
 
 - **TRELLO**, un software de administración y organización de proyectos con interfaz web.
@@ -97,12 +100,6 @@ Scope of work, hace referencia a las herramientas tecnológicas que se implement
 
 - **Google Meet**, es un servicio de reuniones virtuales desarrollado por Google. 
 
-## PIPELINE y WORKFLOW
-
-![imagen1](https://github.com/CarCarrasco1/Cuidados_Intensivos/blob/main/assets/PIPELINE%202.0.drawioLLL.png) 
-
-![imagen1](https://github.com/CarCarrasco1/Cuidados_Intensivos/blob/main/assets/WORKFLOW.png) 
-
 
 # METODOLOGÍA DE TRABAJO 
 
@@ -110,7 +107,7 @@ La metodología Scrum permite abordar proyectos complejos desarrollados en entor
 
 Es una opción de gestión ideal para acometer proyectos desarrollados en entornos complejos que exigen rapidez en los resultados y en los que la flexibilidad es un requisito imprescindible. Scrum ofrece agilidad y el resultados de valor. 
 
-Diagrama de organización `<link>`: <https://github.com/CarCarrasco1/Cuidados_Intensivos/blob/main/assets/Plan%20de%20trabajo.xlsx>
+[**Diagrama de Gantt**](https://github.com/CarCarrasco1/Cuidados_Intensivos/blob/main/assets/Plan%20de%20trabajo.xlsx)
 
 # ETL 
 
@@ -158,12 +155,14 @@ El ETL es un proceso fundamental en la gestión de datos, utilizado con los sigu
 
 ![imagen1](https://github.com/CarCarrasco1/Cuidados_Intensivos/blob/main/assets/Modelado%20de%20DB%20-%20Medinova%202-Modelo%20Financiero.drawio.png) 
 
-### **ESQUEMA DE RELACIONES**
+## **ESQUEMA DE RELACIONES**
 
 ![imagen1](https://github.com/CarCarrasco1/Cuidados_Intensivos/blob/main/assets/Modelo_mimic3.png) 
 
 
-**Diccionario**,  `<link>` : <https://github.com/CarCarrasco1/Cuidados_Intensivos/blob/main/assets/DICCIONARIO_MIMIC.pdf>  
+**Diccionario** 
+
+[DICCIONARIO](https://github.com/CarCarrasco1/Cuidados_Intensivos/blob/main/assets/DICCIONARIO_MIMIC.pdf)  
 
 Se adjuntan los links de desarrollo: 
 
@@ -172,13 +171,20 @@ Se adjuntan los links de desarrollo:
 `<link>` : <https://github.com/RocioAldanaMendez/Cuidados_Intensivos/blob/main/Dump20230316.zip>
 
 
-## AUTOMATIZACIÓN
- 
-
- Documentación filmica AQUÍ `<link>`: <https://raw.githubusercontent.com/RocioAldanaMendez/Cuidados_Intensivos/main/assets/Video%20de%20WhatsApp%202023-03-23%20a%20las%2013.53.50.mp4>
+# AUTOMATIZACIÓN
 
 
-A continuación se adjunta el link para ingresar a la carpeta con los archivos DAG's : `<link>`: <https://github.com/RocioAldanaMendez/Cuidados_Intensivos/tree/main/Automatizacion/Medinova_servicios%20-%20Github>
+## PIPELINE
+
+![imagen1](https://github.com/RocioAldanaMendez/Cuidados_Intensivos/blob/main/assets/PIPELINE%20FINAL.png) 
+
+
+## WORKFLOW AIRFLOW
+
+ Documentación [VIDEO](https://raw.githubusercontent.com/RocioAldanaMendez/Cuidados_Intensivos/main/assets/Video%20de%20WhatsApp%202023-03-23%20a%20las%2013.53.50.mp4)
+
+
+A continuación se adjunta el link para ingresar a la carpeta con los archivos [DAG's](https://github.com/RocioAldanaMendez/Cuidados_Intensivos/tree/main/Atomatizacion_v2.0/Medinova_servicios/dags)
 
 
 # KPI’s  
@@ -191,50 +197,60 @@ Los seleccionados para MEDINOVA son:
 
 - Reducir el 2% el reingreso de pacientas a la UCI. 
 
-- Reducir el promedio de días innecesarios de internaciones. 
+- Reducir el promedio de estadía en UCI a 3,5. 
 
-- Reducir la cantidad de medicamentos innecesarios recetados.
+- Reducir inicialmente en un 10% la cantidad de medicamentos recetados extra.
 
 - Reducir la cantidad de muertes a 10 de cada 100 ingresos dentro de la estadia de la unidad. 
 
--  Aumentar la cantidad de personal para atención, llegando a un máximo de 4 pacientes por profesional.
+- Aumentar la cantidad de personal para atención, llegando a un máximo de 4 pacientes por profesional.
+
 
 # DASHBOARDS
 
+## MÉDICO 
+
+
+[Dashboard Médico](https://app.powerbi.com/view?r=eyJrIjoiZTg2OWQ0MWUtZmY0ZS00MGYxLTk2ZDUtNDM4MDgyNzY2NTg4IiwidCI6ImZhYWIyZWQzLTBkYjYtNGU1NS05N2YyLWU5NTZhNzQ5NTU4NyIsImMiOjR9)
+
+
+![imagen1](https://github.com/RocioAldanaMendez/Cuidados_Intensivos/blob/main/assets/MEDICO.png) 
+
+
 ## ADMINISTRATIVO
 
-![imagen1](https://github.com/CarCarrasco1/Cuidados_Intensivos/blob/main/assets/Dashaboard_admi_page-0001.jpg) 
 
-## MÉDICO
-
-![imagen1](https://github.com/CarCarrasco1/Cuidados_Intensivos/blob/main/assets/Imagen%20de%20WhatsApp%202023-03-23%20a%20las%2017.35.17.jpg) 
+[Dashboard Administrativo](https://app.powerbi.com/view?r=eyJrIjoiZTg2OWQ0MWUtZmY0ZS00MGYxLTk2ZDUtNDM4MDgyNzY2NTg4IiwidCI6ImZhYWIyZWQzLTBkYjYtNGU1NS05N2YyLWU5NTZhNzQ5NTU4NyIsImMiOjR9)
 
 
-A continuación se adjunta el link para poder visualizarlos en su carpeta e interactuar con ellos:  `<link>`: <
-https://github.com/RocioAldanaMendez/Cuidados_Intensivos/tree/main/Dashboards>
+![imagen1](https://github.com/RocioAldanaMendez/Cuidados_Intensivos/blob/main/assets/ADMINISTRATIVO.png) 
+
 
 
 # MODELO DE MACHINE LEARNING
 
-Como cierre se hace entrega de los modelos de Machine Learning que ayudaran especificamente al personal médico de UCI. 
+
+Siguiendo los criterios medicos de evaluaciones tales como el qSOFA, SOFA y Charlson, se desarrollaron dos modelos de Machine Learning, tomando como esquema el "Árbol de decisión" debido a que este tipo de modelo permite dividir los datos de entrada en grupos más pequeños y más homogéneos basados en una serie de preguntas, en este caso basado en los criterios anteriormente comentados. 
+
+Obtuvimos como resultado los siguientes modelos para los dos grandes problemas detectados en UCI, uno para la mortalidad y otro para la sepsis.
+
 
 **Modelo de predicción de mortalidad** 
 
+
 Este modelo utiliza datos de pacientes para predecir la probabilidad de muerte en la UCI. Los datos pueden incluir variables como los niveles de presión arterial, los resultados de pruebas de laboratorio, la presencia de comorbilidades, entre otros. 
 
- `<link>`: < https://huggingface.co/spaces/RoTesla/Prediccion_Mortalidad_en_UCI>
 
-  ![imagen1](https://github.com/CarCarrasco1/Cuidados_Intensivos/blob/main/assets/2.gif) 
+![imagen1](https://github.com/RocioAldanaMendez/Cuidados_Intensivos/blob/main/assets/image2.png) 
 
 
 **Modelo de detección de sepsis**
 
- Este modelo utiliza datos de pacientes para detectar la sepsis temprano y permitir un tratamiento oportuno. Los datos pueden incluir variables como la temperatura corporal, los niveles de lactato, los resultados de pruebas de laboratorio, entre otros. 
+
+Este modelo utiliza datos de pacientes para detectar la sepsis temprano y permitir un tratamiento oportuno. Los datos pueden incluir variables como la temperatura corporal, los niveles de lactato, los resultados de pruebas de laboratorio, entre otros. 
 
 
- `<link>`: <https://huggingface.co/spaces/RoTesla/Deteccion_Sepsis>
-
-  ![imagen1](https://github.com/CarCarrasco1/Cuidados_Intensivos/blob/main/assets/1.gif) 
+![imagen1](https://github.com/RocioAldanaMendez/Cuidados_Intensivos/blob/main/assets/image1.png) 
 
 
 # CONCLUSIONES 
@@ -248,13 +264,19 @@ La automatización del flujo de carga de datos reduce el trabajo manual, mejora 
 Obtener datos limpios y de calidad en la UCI es esencial para garantizar una atención médica segura y efectiva para los pacientes. Así como para la investigación, análisis y posterior prevención de afectaciones. 
 
 
-Gracias a las investigaciones basadas en los datos, se pueden obtener productos de gran eficacia y uso en la unidad de cuidados intensivos, para poder dar soluciones a dos de los problemas más latentes que se detectaron como lo son los ingresos por sepsis y la mortalidad. Así como también mejorar la visualización y disposición de los mismos.
+Entonces es gracias a las investigaciones basadas en los datos, es que se pueden desarrollar este tipo de productos como los que presentamos. Que aportan eficacia y eficiencia del uso de los datos en la unidad de cuidados intensivos, ampliando la cobertura de dicha unidad y brindando más soluciones, tanto para la toma de deciones médicas como para la toma de decisiones administrativo/finacieras.
 
-De la mano de *Smartdata*, la solución provista es este proyecto denominado *Medinova*, concreta con sus productos para médicos y administrativos.
+De la mano de *Smartdata*, con proyectos como **Medinova** hacemos realidad esta visión y reafirmamos un compromiso que nos mueve: 
 
 
+***"La tecnología es importante, pero lo único que realmente importa es que hacemos con ella."***
+ ***Muhammad Yunus***
 
-**LINK A LA DOCUMENTACIÓN:** `<link>`: <https://github.com/RocioAldanaMendez/Cuidados_Intensivos/blob/main/IEEE_830_MEDINOVA_V2.2.docx>
+# PRODUCTO FINAL
+
+**HACÉ CLICK ACÁ PARA VERLO** [MEDINOVA](LINNNNNNNKK)
+
+**LINK A LA DOCUMENTACIÓN:** [DOCUMENTACIÓN](https://github.com/RocioAldanaMendez/Cuidados_Intensivos/blob/main/IEEE_830_MEDINOVA_V2.2.docx)
 
 
 ## DESARROLLADORES
