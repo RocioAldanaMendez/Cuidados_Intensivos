@@ -203,17 +203,21 @@ Los seleccionados para MEDINOVA son:
 
 # DASHBOARDS
 
+## MÉDICO 
+
+`<link>`: <https://app.powerbi.com/view?r=eyJrIjoiZTg2OWQ0MWUtZmY0ZS00MGYxLTk2ZDUtNDM4MDgyNzY2NTg4IiwidCI6ImZhYWIyZWQzLTBkYjYtNGU1NS05N2YyLWU5NTZhNzQ5NTU4NyIsImMiOjR9>
+
+
+![imagen1](https://github.com/RocioAldanaMendez/Cuidados_Intensivos/blob/main/assets/MEDICO.png) 
+
+
 ## ADMINISTRATIVO
 
-![imagen1](https://github.com/CarCarrasco1/Cuidados_Intensivos/blob/main/assets/Dashaboard_admi_page-0001.jpg) 
-
-## MÉDICO
-
-![imagen1](https://github.com/CarCarrasco1/Cuidados_Intensivos/blob/main/assets/Imagen%20de%20WhatsApp%202023-03-23%20a%20las%2017.35.17.jpg) 
+`<link>`: <https://app.powerbi.com/view?r=eyJrIjoiZTg2OWQ0MWUtZmY0ZS00MGYxLTk2ZDUtNDM4MDgyNzY2NTg4IiwidCI6ImZhYWIyZWQzLTBkYjYtNGU1NS05N2YyLWU5NTZhNzQ5NTU4NyIsImMiOjR9>
 
 
-A continuación se adjunta el link para poder visualizarlos en su carpeta e interactuar con ellos:  `<link>`: <
-https://github.com/RocioAldanaMendez/Cuidados_Intensivos/tree/main/Dashboards>
+![imagen1](https://github.com/RocioAldanaMendez/Cuidados_Intensivos/blob/main/assets/ADMINISTRATIVO.png) 
+
 
 
 # MODELO DE MACHINE LEARNING
