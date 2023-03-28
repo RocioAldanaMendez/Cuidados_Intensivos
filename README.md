@@ -177,8 +177,7 @@ Se adjuntan los links de desarrollo:
 
 ## WORKFLOW AIRFLOW
 
- Documentación filmica AQUÍ `<link>`: <https://raw.githubusercontent.com/RocioAldanaMendez/Cuidados_Intensivos/main/assets/Video%20de%20WhatsApp%202023-03-23%20a%20las%2013.53.50.mp4>
-
+ [WORKFLOW](https://github.com/RocioAldanaMendez/Cuidados_Intensivos/blob/main/Videos_Funcionales/bandicam%202023-03-27%2016-32-28-252.mp4?raw=true)
 
 A continuación se adjunta el link para ingresar a la carpeta con los archivos **DAG's** : `<link>`: <https://github.com/RocioAldanaMendez/Cuidados_Intensivos/tree/main/Atomatizacion_v2.0/Medinova_servicios/dags>
 
@@ -230,9 +229,9 @@ Obtuvimos como resultado los siguientes modelos para los dos grandes problemas d
 
 Este modelo utiliza datos de pacientes para predecir la probabilidad de muerte en la UCI. Los datos pueden incluir variables como los niveles de presión arterial, los resultados de pruebas de laboratorio, la presencia de comorbilidades, entre otros. 
 
- `<link>`: < https://huggingface.co/spaces/RoTesla/Prediccion_Mortalidad_en_UCI>
 
-  ![imagen1](https://github.com/CarCarrasco1/Cuidados_Intensivos/blob/main/assets/2.gif) 
+
+  ![imagen1](https://github.com/RocioAldanaMendez/Cuidados_Intensivos/blob/main/assets/image2.png) 
 
 
 **Modelo de detección de sepsis**
@@ -240,9 +239,7 @@ Este modelo utiliza datos de pacientes para predecir la probabilidad de muerte e
  Este modelo utiliza datos de pacientes para detectar la sepsis temprano y permitir un tratamiento oportuno. Los datos pueden incluir variables como la temperatura corporal, los niveles de lactato, los resultados de pruebas de laboratorio, entre otros. 
 
 
- `<link>`: <https://huggingface.co/spaces/RoTesla/Deteccion_Sepsis>
-
-  ![imagen1](https://github.com/CarCarrasco1/Cuidados_Intensivos/blob/main/assets/1.gif) 
+  ![imagen1](https://github.com/RocioAldanaMendez/Cuidados_Intensivos/blob/main/assets/image1.png) 
 
 
 # CONCLUSIONES 
