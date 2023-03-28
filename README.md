@@ -274,7 +274,7 @@ De la mano de *Smartdata*, con proyectos como **Medinova** hacemos realidad esta
 
 # PRODUCTO FINAL
 
-** HACÉ CLICK ACÁ PARA VERLO** [MEDINOVA](LINNNNNNNKK)
+**HACÉ CLICK ACÁ PARA VERLO** [MEDINOVA](LINNNNNNNKK)
 
 **LINK A LA DOCUMENTACIÓN:** [DOCUMENTACIÓN](https://github.com/RocioAldanaMendez/Cuidados_Intensivos/blob/main/IEEE_830_MEDINOVA_V2.2.docx)
 
