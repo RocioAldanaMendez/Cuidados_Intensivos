@@ -107,7 +107,7 @@ La metodología Scrum permite abordar proyectos complejos desarrollados en entor
 
 Es una opción de gestión ideal para acometer proyectos desarrollados en entornos complejos que exigen rapidez en los resultados y en los que la flexibilidad es un requisito imprescindible. Scrum ofrece agilidad y el resultados de valor. 
 
-**Diagrama de Gantt** `<link>`: <https://github.com/CarCarrasco1/Cuidados_Intensivos/blob/main/assets/Plan%20de%20trabajo.xlsx>
+[**Diagrama de Gantt**](https://github.com/CarCarrasco1/Cuidados_Intensivos/blob/main/assets/Plan%20de%20trabajo.xlsx)
 
 # ETL 
 
@@ -160,7 +160,9 @@ El ETL es un proceso fundamental en la gestión de datos, utilizado con los sigu
 ![imagen1](https://github.com/CarCarrasco1/Cuidados_Intensivos/blob/main/assets/Modelo_mimic3.png) 
 
 
-**Diccionario**,  `<link>` : <https://github.com/CarCarrasco1/Cuidados_Intensivos/blob/main/assets/DICCIONARIO_MIMIC.pdf>  
+**Diccionario** 
+
+[DICCIONARIO](https://github.com/CarCarrasco1/Cuidados_Intensivos/blob/main/assets/DICCIONARIO_MIMIC.pdf)  
 
 Se adjuntan los links de desarrollo: 
 
@@ -171,16 +173,18 @@ Se adjuntan los links de desarrollo:
 
 # AUTOMATIZACIÓN
 
+
 ## PIPELINE
 
 ![imagen1](https://github.com/RocioAldanaMendez/Cuidados_Intensivos/blob/main/assets/PIPELINE%20FINAL.png) 
 
+
 ## WORKFLOW AIRFLOW
 
- Documentación filmica AQUÍ `<link>`: <https://raw.githubusercontent.com/RocioAldanaMendez/Cuidados_Intensivos/main/assets/Video%20de%20WhatsApp%202023-03-23%20a%20las%2013.53.50.mp4>
+ Documentación [VIDEO](https://raw.githubusercontent.com/RocioAldanaMendez/Cuidados_Intensivos/main/assets/Video%20de%20WhatsApp%202023-03-23%20a%20las%2013.53.50.mp4)
 
 
-A continuación se adjunta el link para ingresar a la carpeta con los archivos **DAG's** : `<link>`: <https://github.com/RocioAldanaMendez/Cuidados_Intensivos/tree/main/Atomatizacion_v2.0/Medinova_servicios/dags>
+A continuación se adjunta el link para ingresar a la carpeta con los archivos [DAG's](https://github.com/RocioAldanaMendez/Cuidados_Intensivos/tree/main/Atomatizacion_v2.0/Medinova_servicios/dags)
 
 
 # KPI’s  
@@ -201,9 +205,11 @@ Los seleccionados para MEDINOVA son:
 
 - Aumentar la cantidad de personal para atención, llegando a un máximo de 4 pacientes por profesional.
 
+
 # DASHBOARDS
 
 ## MÉDICO 
+
 
 [Dashboard Médico](https://app.powerbi.com/view?r=eyJrIjoiZTg2OWQ0MWUtZmY0ZS00MGYxLTk2ZDUtNDM4MDgyNzY2NTg4IiwidCI6ImZhYWIyZWQzLTBkYjYtNGU1NS05N2YyLWU5NTZhNzQ5NTU4NyIsImMiOjR9)
 
@@ -212,6 +218,7 @@ Los seleccionados para MEDINOVA son:
 
 
 ## ADMINISTRATIVO
+
 
 [Dashboard Administrativo](https://app.powerbi.com/view?r=eyJrIjoiZTg2OWQ0MWUtZmY0ZS00MGYxLTk2ZDUtNDM4MDgyNzY2NTg4IiwidCI6ImZhYWIyZWQzLTBkYjYtNGU1NS05N2YyLWU5NTZhNzQ5NTU4NyIsImMiOjR9)
 
@@ -222,27 +229,31 @@ Los seleccionados para MEDINOVA son:
 
 # MODELO DE MACHINE LEARNING
 
+
 Siguiendo los criterios medicos de evaluaciones tales como el qSOFA, SOFA y Charlson, se desarrollaron dos modelos de Machine Learning, tomando como esquema el "Árbol de decisión" debido a que este tipo de modelo permite dividir los datos de entrada en grupos más pequeños y más homogéneos basados en una serie de preguntas, en este caso basado en los criterios anteriormente comentados. 
 
 Obtuvimos como resultado los siguientes modelos para los dos grandes problemas detectados en UCI, uno para la mortalidad y otro para la sepsis.
 
+
 **Modelo de predicción de mortalidad** 
+
 
 Este modelo utiliza datos de pacientes para predecir la probabilidad de muerte en la UCI. Los datos pueden incluir variables como los niveles de presión arterial, los resultados de pruebas de laboratorio, la presencia de comorbilidades, entre otros. 
 
- `<link>`: < https://huggingface.co/spaces/RoTesla/Prediccion_Mortalidad_en_UCI>
+`<link>`: < https://huggingface.co/spaces/RoTesla/Prediccion_Mortalidad_en_UCI>
 
-  ![imagen1](https://github.com/CarCarrasco1/Cuidados_Intensivos/blob/main/assets/2.gif) 
+![imagen1](https://github.com/CarCarrasco1/Cuidados_Intensivos/blob/main/assets/2.gif) 
 
 
 **Modelo de detección de sepsis**
 
- Este modelo utiliza datos de pacientes para detectar la sepsis temprano y permitir un tratamiento oportuno. Los datos pueden incluir variables como la temperatura corporal, los niveles de lactato, los resultados de pruebas de laboratorio, entre otros. 
+
+Este modelo utiliza datos de pacientes para detectar la sepsis temprano y permitir un tratamiento oportuno. Los datos pueden incluir variables como la temperatura corporal, los niveles de lactato, los resultados de pruebas de laboratorio, entre otros. 
 
 
- `<link>`: <https://huggingface.co/spaces/RoTesla/Deteccion_Sepsis>
+`<link>`: <https://huggingface.co/spaces/RoTesla/Deteccion_Sepsis>
 
-  ![imagen1](https://github.com/CarCarrasco1/Cuidados_Intensivos/blob/main/assets/1.gif) 
+![imagen1](https://github.com/CarCarrasco1/Cuidados_Intensivos/blob/main/assets/1.gif) 
 
 
 # CONCLUSIONES 
@@ -264,9 +275,11 @@ De la mano de *Smartdata*, con proyectos como **Medinova** hacemos realidad esta
 ***"La tecnología es importante, pero lo único que realmente importa es que hacemos con ella."***
  ***Muhammad Yunus***
 
+# PRODUCTO FINAL
 
+** HACÉ CLICK ACÁ PARA VERLO** [MEDINOVA](LINNNNNNNKK)
 
-**LINK A LA DOCUMENTACIÓN:** `<link>`: <https://github.com/RocioAldanaMendez/Cuidados_Intensivos/blob/main/IEEE_830_MEDINOVA_V2.2.docx>
+**LINK A LA DOCUMENTACIÓN:** [DOCUMENTACIÓN](https://github.com/RocioAldanaMendez/Cuidados_Intensivos/blob/main/IEEE_830_MEDINOVA_V2.2.docx)
 
 
 ## DESARROLLADORES
