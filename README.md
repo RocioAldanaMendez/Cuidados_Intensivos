@@ -212,7 +212,7 @@ Los seleccionados para MEDINOVA son:
 ## ADMINISTRATIVO
 
 
-[Dashboard Administrativo](https://app.powerbi.com/view?r=eyJrIjoiZTg2OWQ0MWUtZmY0ZS00MGYxLTk2ZDUtNDM4MDgyNzY2NTg4IiwidCI6ImZhYWIyZWQzLTBkYjYtNGU1NS05N2YyLWU5NTZhNzQ5NTU4NyIsImMiOjR9)
+[Dashboard Administrativo](https://app.powerbi.com/view?r=eyJrIjoiNDQ0NGZlNzItNjRmZC00YWQ4LWFmZDktMjJhNmFhOGFjN2E4IiwidCI6ImZhYWIyZWQzLTBkYjYtNGU1NS05N2YyLWU5NTZhNzQ5NTU4NyIsImMiOjR9)
 
 
 ![imagen1](https://github.com/RocioAldanaMendez/Cuidados_Intensivos/blob/main/assets/ADMINISTRATIVO.png) 
