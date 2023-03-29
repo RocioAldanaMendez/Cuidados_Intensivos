@@ -1,10 +1,8 @@
 <h1 align=center>
  
- ![](https://github.com/CarCarrasco1/Cuidados_Intensivos/blob/main/assets/blancogrande.png)
+ ![](https://github.com/RocioAldanaMendez/Cuidados_Intensivos/blob/main/assets/titulo%20readme.png)
 
-<h1 align=center> 
- 
-![](https://github.com/CarCarrasco1/Cuidados_Intensivos/blob/main/assets/medinovaneg.png)
+
 
 # INTRODUCCIÓN 
 
