@@ -232,6 +232,7 @@ Obtuvimos como resultado los siguientes modelos para los dos grandes problemas d
 
 Este modelo utiliza datos de pacientes para predecir la probabilidad de muerte en la UCI. Los datos pueden incluir variables como los niveles de presión arterial, los resultados de pruebas de laboratorio, la presencia de comorbilidades, entre otros. 
 
+**PROBALO AQUÍ:** [MODELO MORTALIDAD](https://maurengit-smartdata-main-qf4mpg.streamlit.app/ML_Mortalidad)
 
 ![imagen1](https://github.com/RocioAldanaMendez/Cuidados_Intensivos/blob/main/assets/image2.png) 
 
@@ -240,6 +241,9 @@ Este modelo utiliza datos de pacientes para predecir la probabilidad de muerte e
 
 
 Este modelo utiliza datos de pacientes para detectar la sepsis temprano y permitir un tratamiento oportuno. Los datos pueden incluir variables como la temperatura corporal, los niveles de lactato, los resultados de pruebas de laboratorio, entre otros. 
+
+
+**PROBALO AQUÍ:** [MODELO SEPSIS](https://maurengit-smartdata-main-qf4mpg.streamlit.app/ML_Sepsis)
 
 
 ![imagen1](https://github.com/RocioAldanaMendez/Cuidados_Intensivos/blob/main/assets/image1.png) 
@@ -280,7 +284,7 @@ De la mano de *Smartdata*, con proyectos como **Medinova** hacemos realidad esta
 
 ## ESTADO: 
 
-<h4 align="center"> :beginner: Proyecto en proceso :beginner: </h4> 
+<h4 align="center"> :beginner: PROYECTO FINALIZADO :beginner: </h4> 
 
 
  ## SUPERVICIÓN
