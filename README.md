@@ -274,7 +274,7 @@ De la mano de *Smartdata*, con proyectos como **Medinova** hacemos realidad esta
 
 # PRODUCTO FINAL
 
-**HACÉ CLICK ACÁ PARA VERLO** [MEDINOVA](LINNNNNNNKK)
+**HACÉ CLICK ACÁ PARA VERLO** [MEDINOVA](https://maurengit-smartdata-main-qf4mpg.streamlit.app/)
 
 **LINK A LA DOCUMENTACIÓN:** [DOCUMENTACIÓN](https://github.com/RocioAldanaMendez/Cuidados_Intensivos/blob/main/Documentaci%C3%B3n/IEEE_830_MEDINOVA_V4.0.docx?raw=true)
 
