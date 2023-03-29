@@ -162,12 +162,6 @@ El ETL es un proceso fundamental en la gestión de datos, utilizado con los sigu
 
 [DICCIONARIO](https://github.com/CarCarrasco1/Cuidados_Intensivos/blob/main/assets/DICCIONARIO_MIMIC.pdf)  
 
-Se adjuntan los links de desarrollo: 
-
-`<link>` : <https://github.com/RocioAldanaMendez/Cuidados_Intensivos/blob/main/datatype%20.sql> 
-
-`<link>` : <https://github.com/RocioAldanaMendez/Cuidados_Intensivos/blob/main/Dump20230316.zip>
-
 
 # AUTOMATIZACIÓN
 
