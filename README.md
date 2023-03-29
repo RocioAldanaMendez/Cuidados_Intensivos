@@ -219,7 +219,7 @@ Los seleccionados para MEDINOVA son:
 
 
 
-# MODELO DE MACHINE LEARNING
+# MODELOS DE MACHINE LEARNING
 
 
 Siguiendo los criterios medicos de evaluaciones tales como el qSOFA, SOFA y Charlson, se desarrollaron dos modelos de Machine Learning, tomando como esquema el "Árbol de decisión" debido a que este tipo de modelo permite dividir los datos de entrada en grupos más pequeños y más homogéneos basados en una serie de preguntas, en este caso basado en los criterios anteriormente comentados. 
@@ -227,7 +227,7 @@ Siguiendo los criterios medicos de evaluaciones tales como el qSOFA, SOFA y Char
 Obtuvimos como resultado los siguientes modelos para los dos grandes problemas detectados en UCI, uno para la mortalidad y otro para la sepsis.
 
 
-**Modelo de predicción de mortalidad** 
+## **Modelo de predicción de mortalidad** 
 
 
 Este modelo utiliza datos de pacientes para predecir la probabilidad de muerte en la UCI. Los datos pueden incluir variables como los niveles de presión arterial, los resultados de pruebas de laboratorio, la presencia de comorbilidades, entre otros. 
@@ -237,7 +237,7 @@ Este modelo utiliza datos de pacientes para predecir la probabilidad de muerte e
 ![imagen1](https://github.com/RocioAldanaMendez/Cuidados_Intensivos/blob/main/assets/image2.png) 
 
 
-**Modelo de detección de sepsis**
+## **Modelo de detección de sepsis**
 
 
 Este modelo utiliza datos de pacientes para detectar la sepsis temprano y permitir un tratamiento oportuno. Los datos pueden incluir variables como la temperatura corporal, los niveles de lactato, los resultados de pruebas de laboratorio, entre otros. 
